@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T13:14:50.222349+08:00",
+  "updated_at": "2026-10-30T13:17:10.372424+08:00",
   "repos": {
     "Tencent/WeKnora": {
       "stars": 35946,
@@ -10,7 +10,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 159952,
+      "stars": 159953,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -18,7 +18,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 34880,
+      "stars": 34879,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {

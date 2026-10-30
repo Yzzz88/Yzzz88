@@ -1,24 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="996" viewBox="0 0 1000 996" role="img" aria-label="1 个 PR 已合并，8 个 PR 待合并，涉及 8 个上游仓库">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1063" viewBox="0 0 1000 1063" role="img" aria-label="2 个 PR 已合并，9 个 PR 待合并，涉及 9 个上游仓库">
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; fill: #19191e; }
 .mono { font-family: Consolas, 'Liberation Mono', monospace; }
 .eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 2.3px; fill: #8061bb; }
 .muted { fill: #85838c; font-size: 13px; }
 .line { stroke: #eeedf2; stroke-width: 1; }
-</style><rect width="1000" height="996" rx="0" fill="#fff"/>
+</style><rect width="1000" height="1063" rx="0" fill="#fff"/>
 <text x="40" y="34" class="eyebrow">■ MERGED PULL REQUESTS</text>
 <text x="960" y="34" class="muted mono" text-anchor="end">github.com/Yzzz88</text>
 <path d="M40 56H960" class="line"/>
-<text x="40" y="148" font-size="76" font-weight="700" letter-spacing="-3">1</text>
+<text x="40" y="148" font-size="76" font-weight="700" letter-spacing="-3">2</text>
 <text x="145" y="142" font-size="23" font-weight="600">个 PR 已合并</text>
-<text x="40" y="182" class="muted">近 30 天 +1 · 投向他人的公开仓库</text>
-<text x="694" y="135" font-size="33" font-weight="600">8</text>
+<text x="40" y="182" class="muted">近 30 天 +2 · 投向他人的公开仓库</text>
+<text x="694" y="135" font-size="33" font-weight="600">9</text>
 <text x="694" y="164" class="muted">待合并 PR</text>
-<text x="865" y="135" font-size="33" font-weight="600">8</text>
+<text x="865" y="135" font-size="33" font-weight="600">9</text>
 <text x="865" y="164" class="muted">上游仓库</text>
 <text x="40" y="224" class="muted">最近 90 天 · 合并时间线</text>
 <path d="M46 293H954" class="line"/>
 <circle cx="943.8" cy="282" r="3.8" fill="#8663bf"/>
+<circle cx="954.0" cy="282" r="3.8" fill="#8663bf"/>
 <text x="40" y="318" class="muted mono">08-02</text>
 <text x="960" y="318" class="muted mono" text-anchor="end">10-30</text>
 <text x="40" y="365" class="muted">上游仓库</text>
@@ -27,61 +28,68 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="960" y="365" class="muted mono" text-anchor="end">STARS</text>
 <path d="M40 388H960" class="line"/>
 <rect x="40" y="411" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="428" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">O</text>
-<text x="80" y="428" class="mono" font-size="16" font-weight="600">opensandbox-group/OpenSandbox</text>
+<text x="52" y="428" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">N</text>
+<text x="80" y="428" class="mono" font-size="16" font-weight="600">zauberzeug/nicegui</text>
 <text x="688" y="428" font-size="17" font-weight="600" text-anchor="end">1</text>
-<text x="806" y="428" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
+<text x="806" y="428" font-size="17" text-anchor="end" style="fill:#8061bb">0</text>
 <text x="960" y="428" class="muted mono" text-anchor="end">☆ 16.3k</text>
 <path d="M40 455H960" class="line"/>
 <rect x="40" y="478" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="495" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">D</text>
-<text x="80" y="495" class="mono" font-size="16" font-weight="600">langgenius/dify</text>
-<text x="688" y="495" font-size="17" font-weight="600" text-anchor="end">0</text>
-<text x="806" y="495" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="495" class="muted mono" text-anchor="end">☆ 160.0k</text>
+<text x="52" y="495" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">O</text>
+<text x="80" y="495" class="mono" font-size="16" font-weight="600">opensandbox-group/OpenSandbox</text>
+<text x="688" y="495" font-size="17" font-weight="600" text-anchor="end">1</text>
+<text x="806" y="495" font-size="17" text-anchor="end" style="fill:#8061bb">0</text>
+<text x="960" y="495" class="muted mono" text-anchor="end">☆ 16.3k</text>
 <path d="M40 522H960" class="line"/>
 <rect x="40" y="545" width="24" height="24" rx="5" fill="#f2eef9"/>
 <text x="52" y="562" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">D</text>
 <text x="80" y="562" class="mono" font-size="16" font-weight="600">bytedance/deer-flow</text>
 <text x="688" y="562" font-size="17" font-weight="600" text-anchor="end">0</text>
-<text x="806" y="562" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
+<text x="806" y="562" font-size="17" text-anchor="end" style="fill:#8061bb">2</text>
 <text x="960" y="562" class="muted mono" text-anchor="end">☆ 84.7k</text>
 <path d="M40 589H960" class="line"/>
 <rect x="40" y="612" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="629" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">W</text>
-<text x="80" y="629" class="mono" font-size="16" font-weight="600">Tencent/WeKnora</text>
+<text x="52" y="629" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">T</text>
+<text x="80" y="629" class="mono" font-size="16" font-weight="600">bytedance/trae-agent</text>
 <text x="688" y="629" font-size="17" font-weight="600" text-anchor="end">0</text>
-<text x="806" y="629" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="629" class="muted mono" text-anchor="end">☆ 35.9k</text>
+<text x="806" y="629" font-size="17" text-anchor="end" style="fill:#8061bb">2</text>
+<text x="960" y="629" class="muted mono" text-anchor="end">☆ 12.2k</text>
 <path d="M40 656H960" class="line"/>
 <rect x="40" y="679" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="696" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">A</text>
-<text x="80" y="696" class="mono" font-size="16" font-weight="600">agentscope-ai/agentscope</text>
+<text x="52" y="696" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">D</text>
+<text x="80" y="696" class="mono" font-size="16" font-weight="600">langgenius/dify</text>
 <text x="688" y="696" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="696" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="696" class="muted mono" text-anchor="end">☆ 34.9k</text>
+<text x="960" y="696" class="muted mono" text-anchor="end">☆ 160.0k</text>
 <path d="M40 723H960" class="line"/>
 <rect x="40" y="746" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="763" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">N</text>
-<text x="80" y="763" class="mono" font-size="16" font-weight="600">zauberzeug/nicegui</text>
+<text x="52" y="763" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">W</text>
+<text x="80" y="763" class="mono" font-size="16" font-weight="600">Tencent/WeKnora</text>
 <text x="688" y="763" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="763" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="763" class="muted mono" text-anchor="end">☆ 16.3k</text>
+<text x="960" y="763" class="muted mono" text-anchor="end">☆ 36.0k</text>
 <path d="M40 790H960" class="line"/>
 <rect x="40" y="813" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="830" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">M</text>
-<text x="80" y="830" class="mono" font-size="16" font-weight="600">modelscope/ms-agent</text>
+<text x="52" y="830" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">A</text>
+<text x="80" y="830" class="mono" font-size="16" font-weight="600">agentscope-ai/agentscope</text>
 <text x="688" y="830" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="830" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="830" class="muted mono" text-anchor="end">☆ 4.4k</text>
+<text x="960" y="830" class="muted mono" text-anchor="end">☆ 34.9k</text>
 <path d="M40 857H960" class="line"/>
 <rect x="40" y="880" width="24" height="24" rx="5" fill="#f2eef9"/>
-<text x="52" y="897" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">D</text>
-<text x="80" y="897" class="mono" font-size="16" font-weight="600">langgenius/dify-official-plugins</text>
+<text x="52" y="897" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">M</text>
+<text x="80" y="897" class="mono" font-size="16" font-weight="600">modelscope/ms-agent</text>
 <text x="688" y="897" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="897" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="897" class="muted mono" text-anchor="end">☆ 641</text>
+<text x="960" y="897" class="muted mono" text-anchor="end">☆ 4.4k</text>
 <path d="M40 924H960" class="line"/>
-<text x="40" y="962" class="muted">GitHub REST API · 每小时检查 · 变化时更新</text>
-<text x="960" y="962" class="muted mono" text-anchor="end">2026-10-30 13:17 (UTC+8)</text>
+<rect x="40" y="947" width="24" height="24" rx="5" fill="#f2eef9"/>
+<text x="52" y="964" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">D</text>
+<text x="80" y="964" class="mono" font-size="16" font-weight="600">langgenius/dify-official-plugins</text>
+<text x="688" y="964" font-size="17" font-weight="600" text-anchor="end">0</text>
+<text x="806" y="964" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
+<text x="960" y="964" class="muted mono" text-anchor="end">☆ 640</text>
+<path d="M40 991H960" class="line"/>
+<text x="40" y="1029" class="muted">GitHub REST API · 每小时检查 · 变化时更新</text>
+<text x="960" y="1029" class="muted mono" text-anchor="end">2026-10-30 19:29 (UTC+8)</text>
 </svg>

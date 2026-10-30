@@ -1,66 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="1356" viewBox="0 0 320 1356" role="img" aria-label="1 个 PR 已合并，8 个 PR 待合并，涉及 8 个上游仓库">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="1468" viewBox="0 0 320 1468" role="img" aria-label="2 个 PR 已合并，9 个 PR 待合并，涉及 9 个上游仓库">
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; fill: #19191e; }
 .mono { font-family: Consolas, 'Liberation Mono', monospace; }
 .eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 2.3px; fill: #8061bb; }
 .muted { fill: #85838c; font-size: 13px; }
 .line { stroke: #eeedf2; stroke-width: 1; }
-</style><rect width="320" height="1356" rx="0" fill="#fff"/>
+</style><rect width="320" height="1468" rx="0" fill="#fff"/>
 <text x="12" y="30" font-size="19" font-weight="600" style="fill:#8061bb">■ 开源贡献统计</text>
 <path d="M12 48H308" class="line"/>
-<text x="12" y="116" font-size="60" font-weight="700">1</text>
+<text x="12" y="116" font-size="60" font-weight="700">2</text>
 <text x="84" y="108" font-size="23" font-weight="600">个 PR 已合并</text>
-<text x="12" y="160" font-size="28" font-weight="600">8</text>
+<text x="12" y="160" font-size="28" font-weight="600">9</text>
 <text x="44" y="158" font-size="18">待合并 PR</text>
-<text x="175" y="160" font-size="28" font-weight="600">8</text>
+<text x="175" y="160" font-size="28" font-weight="600">9</text>
 <text x="207" y="158" font-size="18">上游仓库</text>
-<text x="12" y="196" class="muted" style="font-size:17px">近 30 天 +1 个已合并 PR</text>
+<text x="12" y="196" class="muted" style="font-size:17px">近 30 天 +2 个已合并 PR</text>
 <text x="12" y="234" font-size="17">最近 90 天 · 合并时间线</text>
 <path d="M18 296H302" class="line"/>
 <circle cx="298.8" cy="286" r="3.5" fill="#8663bf"/>
+<circle cx="302.0" cy="286" r="3.5" fill="#8663bf"/>
 <text x="12" y="321" class="muted mono" style="font-size:15px">08-02</text>
 <text x="308" y="321" class="muted mono" text-anchor="end" style="font-size:15px">10-30</text>
 <text x="12" y="356" font-size="20" font-weight="600">上游仓库</text>
 <rect x="12" y="370" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="393" class="muted mono" style="font-size:16px">opensandbox-group</text>
-<text x="24" y="422" class="mono" font-size="19" font-weight="600">OpenSandbox</text>
-<text x="24" y="452" font-size="16">已合并 1 · 待合并 1</text>
+<text x="24" y="393" class="muted mono" style="font-size:16px">zauberzeug</text>
+<text x="24" y="422" class="mono" font-size="19" font-weight="600">nicegui</text>
+<text x="24" y="452" font-size="16">已合并 1 · 待合并 0</text>
 <text x="296" y="452" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.3k</text>
 <rect x="12" y="482" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="505" class="muted mono" style="font-size:16px">langgenius</text>
-<text x="24" y="534" class="mono" font-size="19" font-weight="600">dify</text>
-<text x="24" y="564" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="564" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 160.0k</text>
+<text x="24" y="505" class="muted mono" style="font-size:16px">opensandbox-group</text>
+<text x="24" y="534" class="mono" font-size="19" font-weight="600">OpenSandbox</text>
+<text x="24" y="564" font-size="16">已合并 1 · 待合并 0</text>
+<text x="296" y="564" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.3k</text>
 <rect x="12" y="594" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
 <text x="24" y="617" class="muted mono" style="font-size:16px">bytedance</text>
 <text x="24" y="646" class="mono" font-size="19" font-weight="600">deer-flow</text>
-<text x="24" y="676" font-size="16">已合并 0 · 待合并 1</text>
+<text x="24" y="676" font-size="16">已合并 0 · 待合并 2</text>
 <text x="296" y="676" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 84.7k</text>
 <rect x="12" y="706" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="729" class="muted mono" style="font-size:16px">Tencent</text>
-<text x="24" y="758" class="mono" font-size="19" font-weight="600">WeKnora</text>
-<text x="24" y="788" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="788" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 35.9k</text>
+<text x="24" y="729" class="muted mono" style="font-size:16px">bytedance</text>
+<text x="24" y="758" class="mono" font-size="19" font-weight="600">trae-agent</text>
+<text x="24" y="788" font-size="16">已合并 0 · 待合并 2</text>
+<text x="296" y="788" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 12.2k</text>
 <rect x="12" y="818" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="841" class="muted mono" style="font-size:16px">agentscope-ai</text>
-<text x="24" y="870" class="mono" font-size="19" font-weight="600">agentscope</text>
+<text x="24" y="841" class="muted mono" style="font-size:16px">langgenius</text>
+<text x="24" y="870" class="mono" font-size="19" font-weight="600">dify</text>
 <text x="24" y="900" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="900" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 34.9k</text>
+<text x="296" y="900" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 160.0k</text>
 <rect x="12" y="930" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="953" class="muted mono" style="font-size:16px">zauberzeug</text>
-<text x="24" y="982" class="mono" font-size="19" font-weight="600">nicegui</text>
+<text x="24" y="953" class="muted mono" style="font-size:16px">Tencent</text>
+<text x="24" y="982" class="mono" font-size="19" font-weight="600">WeKnora</text>
 <text x="24" y="1012" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1012" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.3k</text>
+<text x="296" y="1012" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 36.0k</text>
 <rect x="12" y="1042" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1065" class="muted mono" style="font-size:16px">modelscope</text>
-<text x="24" y="1094" class="mono" font-size="19" font-weight="600">ms-agent</text>
+<text x="24" y="1065" class="muted mono" style="font-size:16px">agentscope-ai</text>
+<text x="24" y="1094" class="mono" font-size="19" font-weight="600">agentscope</text>
 <text x="24" y="1124" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.4k</text>
+<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 34.9k</text>
 <rect x="12" y="1154" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1177" class="muted mono" style="font-size:16px">langgenius</text>
-<text x="24" y="1206" class="mono" font-size="19" font-weight="600">dify-official-plugins</text>
+<text x="24" y="1177" class="muted mono" style="font-size:16px">modelscope</text>
+<text x="24" y="1206" class="mono" font-size="19" font-weight="600">ms-agent</text>
 <text x="24" y="1236" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1236" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 641</text>
-<text x="12" y="1294" class="muted" style="font-size:17px">每小时检查 · 变化时更新</text>
-<text x="12" y="1325" class="muted mono" style="font-size:15px">2026-10-30 13:17 (UTC+8)</text>
+<text x="296" y="1236" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.4k</text>
+<rect x="12" y="1266" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
+<text x="24" y="1289" class="muted mono" style="font-size:16px">langgenius</text>
+<text x="24" y="1318" class="mono" font-size="19" font-weight="600">dify-official-plugins</text>
+<text x="24" y="1348" font-size="16">已合并 0 · 待合并 1</text>
+<text x="296" y="1348" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 640</text>
+<text x="12" y="1406" class="muted" style="font-size:17px">每小时检查 · 变化时更新</text>
+<text x="12" y="1437" class="muted mono" style="font-size:15px">2026-10-30 19:29 (UTC+8)</text>
 </svg>

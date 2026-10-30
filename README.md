@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 1 个 PR · 待合并 8 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 2 个 PR · 待合并 9 个 PR" width="100%">
 </picture>
 </a>
 
@@ -20,6 +20,12 @@
 修复服务端主机路径白名单对 POSIX 根路径的判断
 
 仓库：[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
+
+#### 已合并 · [nicegui #6449](https://github.com/zauberzeug/nicegui/pull/6449)
+
+Fix deep-copied observables notifying their original parent
+
+仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
 #### 待合并 · [WeKnora #4893](https://github.com/Tencent/WeKnora/pull/4893)
 
@@ -39,6 +45,24 @@ fix(docreader): preserve fenced base64 image examples
 
 仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
+#### 待合并 · [deer-flow #7719](https://github.com/bytedance/deer-flow/pull/7719)
+
+fix(skills): keep data-analysis cache snapshots read-only
+
+仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+#### 待合并 · [trae-agent #562](https://github.com/bytedance/trae-agent/pull/562)
+
+fix(ckg): invalidate persisted snapshots when dirty file contents change
+
+仓库：[bytedance/trae-agent](https://github.com/bytedance/trae-agent)
+
+#### 待合并 · [trae-agent #563](https://github.com/bytedance/trae-agent/pull/563)
+
+fix(bash): serialize shared shell session operations
+
+仓库：[bytedance/trae-agent](https://github.com/bytedance/trae-agent)
+
 #### 待合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
 
 按匹配索引删除 JSON 数组元素
@@ -57,17 +81,11 @@ fix(nodejs-client): default omitted chat and completion inputs to empty objects
 
 仓库：[modelscope/ms-agent](https://github.com/modelscope/ms-agent)
 
-#### 待合并 · [OpenSandbox #2483](https://github.com/opensandbox-group/OpenSandbox/pull/2483)
+#### 已关闭，未合并 · [OpenSandbox #2483](https://github.com/opensandbox-group/OpenSandbox/pull/2483)
 
 修复 Python SDK 空闲池重插入后的 FIFO 顺序
 
 仓库：[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
-
-#### 待合并 · [nicegui #6449](https://github.com/zauberzeug/nicegui/pull/6449)
-
-Fix deep-copied observables notifying their original parent
-
-仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
 
 <sub>统计范围：本人提交至他人公开仓库的 Pull Request；已合并与待合并分别计数。Star 数随上游变化。</sub>

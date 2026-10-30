@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-10-30T13:17:10.372424+08:00",
+  "updated_at": "2026-10-30T19:29:18.653312+08:00",
   "repos": {
+    "bytedance/deer-flow": {
+      "stars": 84715,
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    "bytedance/trae-agent": {
+      "stars": 12168,
+      "url": "https://github.com/bytedance/trae-agent"
+    },
     "Tencent/WeKnora": {
-      "stars": 35946,
+      "stars": 36021,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "zauberzeug/nicegui": {
@@ -10,28 +18,24 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 159953,
+      "stars": 159985,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
-      "stars": 641,
+      "stars": 640,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 34879,
+      "stars": 34924,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16278,
+      "stars": 16290,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
       "stars": 4419,
       "url": "https://github.com/modelscope/ms-agent"
-    },
-    "bytedance/deer-flow": {
-      "stars": 84691,
-      "url": "https://github.com/bytedance/deer-flow"
     }
   },
   "pulls": [
@@ -74,6 +78,48 @@
         "html_url": "https://github.com/bytedance/deer-flow/pull/7715",
         "diff_url": "https://github.com/bytedance/deer-flow/pull/7715.diff",
         "patch_url": "https://github.com/bytedance/deer-flow/pull/7715.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 7719,
+      "title": "fix(skills): keep data-analysis cache snapshots read-only",
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7719",
+      "repository_url": "https://api.github.com/repos/bytedance/deer-flow",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/deer-flow/pulls/7719",
+        "html_url": "https://github.com/bytedance/deer-flow/pull/7719",
+        "diff_url": "https://github.com/bytedance/deer-flow/pull/7719.diff",
+        "patch_url": "https://github.com/bytedance/deer-flow/pull/7719.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 562,
+      "title": "fix(ckg): invalidate persisted snapshots when dirty file contents change",
+      "html_url": "https://github.com/bytedance/trae-agent/pull/562",
+      "repository_url": "https://api.github.com/repos/bytedance/trae-agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/trae-agent/pulls/562",
+        "html_url": "https://github.com/bytedance/trae-agent/pull/562",
+        "diff_url": "https://github.com/bytedance/trae-agent/pull/562.diff",
+        "patch_url": "https://github.com/bytedance/trae-agent/pull/562.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 563,
+      "title": "fix(bash): serialize shared shell session operations",
+      "html_url": "https://github.com/bytedance/trae-agent/pull/563",
+      "repository_url": "https://api.github.com/repos/bytedance/trae-agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/trae-agent/pulls/563",
+        "html_url": "https://github.com/bytedance/trae-agent/pull/563",
+        "diff_url": "https://github.com/bytedance/trae-agent/pull/563.diff",
+        "patch_url": "https://github.com/bytedance/trae-agent/pull/563.patch",
         "merged_at": null
       }
     },
@@ -138,7 +184,7 @@
       "title": "fix(sdk-python): preserve idle pool FIFO after reinsertion",
       "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483",
       "repository_url": "https://api.github.com/repos/opensandbox-group/OpenSandbox",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/opensandbox-group/OpenSandbox/pulls/2483",
         "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483",
@@ -152,13 +198,13 @@
       "title": "Fix deep-copied observables notifying their original parent",
       "html_url": "https://github.com/zauberzeug/nicegui/pull/6449",
       "repository_url": "https://api.github.com/repos/zauberzeug/nicegui",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/zauberzeug/nicegui/pulls/6449",
         "html_url": "https://github.com/zauberzeug/nicegui/pull/6449",
         "diff_url": "https://github.com/zauberzeug/nicegui/pull/6449.diff",
         "patch_url": "https://github.com/zauberzeug/nicegui/pull/6449.patch",
-        "merged_at": null
+        "merged_at": "2026-10-30T08:48:15Z"
       }
     }
   ]

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="196" viewBox="0 0 320 196" role="img" aria-label="Yzzz88 — AI Agent 与开源贡献">
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; fill: #19191e; }
+.mono { font-family: Consolas, 'Liberation Mono', monospace; }
+.eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 2.3px; fill: #8061bb; }
+.muted { fill: #85838c; font-size: 13px; }
+.line { stroke: #eeedf2; stroke-width: 1; }
+</style><rect width="320" height="196" rx="0" fill="#fff"/>
+<text x="12" y="26" class="eyebrow" style="font-size:10px;letter-spacing:1.2px">■ AI AGENT · OPEN SOURCE</text>
+<text x="12" y="79" font-size="38" font-weight="700" letter-spacing="-1">Yzzz88</text>
+<text x="12" y="118" font-size="19">关注 Agent 工具调用、</text>
+<text x="12" y="147" font-size="19">执行可靠性与沙箱边界。</text>
+<text x="12" y="181" class="muted" style="font-size:16px">问题复现 · 回归测试 · 代码修复</text>
+</svg>

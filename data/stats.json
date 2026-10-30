@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-30T13:06:04.016711+08:00",
+  "updated_at": "2026-10-30T13:14:50.222349+08:00",
   "repos": {
+    "Tencent/WeKnora": {
+      "stars": 35946,
+      "url": "https://github.com/Tencent/WeKnora"
+    },
+    "zauberzeug/nicegui": {
+      "stars": 16330,
+      "url": "https://github.com/zauberzeug/nicegui"
+    },
     "langgenius/dify": {
       "stars": 159952,
       "url": "https://github.com/langgenius/dify"
@@ -10,7 +18,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 34878,
+      "stars": 34880,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
@@ -22,11 +30,25 @@
       "url": "https://github.com/modelscope/ms-agent"
     },
     "bytedance/deer-flow": {
-      "stars": 84690,
+      "stars": 84691,
       "url": "https://github.com/bytedance/deer-flow"
     }
   },
   "pulls": [
+    {
+      "number": 4893,
+      "title": "fix(docreader): preserve fenced base64 image examples",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/4893",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/4893",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/4893",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/4893.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/4893.patch",
+        "merged_at": null
+      }
+    },
     {
       "number": 3593,
       "title": "fix(sop): settle exhausted attempts before emitting step endings",
@@ -122,6 +144,20 @@
         "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483",
         "diff_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483.diff",
         "patch_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6449,
+      "title": "Fix deep-copied observables notifying their original parent",
+      "html_url": "https://github.com/zauberzeug/nicegui/pull/6449",
+      "repository_url": "https://api.github.com/repos/zauberzeug/nicegui",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/zauberzeug/nicegui/pulls/6449",
+        "html_url": "https://github.com/zauberzeug/nicegui/pull/6449",
+        "diff_url": "https://github.com/zauberzeug/nicegui/pull/6449.diff",
+        "patch_url": "https://github.com/zauberzeug/nicegui/pull/6449.patch",
         "merged_at": null
       }
     }

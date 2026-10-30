@@ -1,0 +1,111 @@
+{
+  "updated_at": "2026-10-30T12:45:04.171959+08:00",
+  "repos": {
+    "langgenius/dify-official-plugins": {
+      "stars": 641,
+      "url": "https://github.com/langgenius/dify-official-plugins"
+    },
+    "agentscope-ai/agentscope": {
+      "stars": 34878,
+      "url": "https://github.com/agentscope-ai/agentscope"
+    },
+    "opensandbox-group/OpenSandbox": {
+      "stars": 16278,
+      "url": "https://github.com/opensandbox-group/OpenSandbox"
+    },
+    "modelscope/ms-agent": {
+      "stars": 4419,
+      "url": "https://github.com/modelscope/ms-agent"
+    },
+    "bytedance/deer-flow": {
+      "stars": 84689,
+      "url": "https://github.com/bytedance/deer-flow"
+    }
+  },
+  "pulls": [
+    {
+      "number": 4150,
+      "title": "fix(json_process): delete array elements by matched indices",
+      "html_url": "https://github.com/langgenius/dify-official-plugins/pull/4150",
+      "repository_url": "https://api.github.com/repos/langgenius/dify-official-plugins",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/langgenius/dify-official-plugins/pulls/4150",
+        "html_url": "https://github.com/langgenius/dify-official-plugins/pull/4150",
+        "diff_url": "https://github.com/langgenius/dify-official-plugins/pull/4150.diff",
+        "patch_url": "https://github.com/langgenius/dify-official-plugins/pull/4150.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 3593,
+      "title": "fix(sop): settle exhausted attempts before emitting step endings",
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
+      "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/3593",
+        "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
+        "diff_url": "https://github.com/agentscope-ai/agentscope/pull/3593.diff",
+        "patch_url": "https://github.com/agentscope-ai/agentscope/pull/3593.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 2483,
+      "title": "fix(sdk-python): preserve idle pool FIFO after reinsertion",
+      "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483",
+      "repository_url": "https://api.github.com/repos/opensandbox-group/OpenSandbox",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/opensandbox-group/OpenSandbox/pulls/2483",
+        "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483",
+        "diff_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483.diff",
+        "patch_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2483.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1036,
+      "title": "fix(protocols): recheck session admission after asynchronous eviction",
+      "html_url": "https://github.com/modelscope/ms-agent/pull/1036",
+      "repository_url": "https://api.github.com/repos/modelscope/ms-agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/modelscope/ms-agent/pulls/1036",
+        "html_url": "https://github.com/modelscope/ms-agent/pull/1036",
+        "diff_url": "https://github.com/modelscope/ms-agent/pull/1036.diff",
+        "patch_url": "https://github.com/modelscope/ms-agent/pull/1036.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 7715,
+      "title": "fix(skills): prevent data-analysis exports from overwriting inputs",
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7715",
+      "repository_url": "https://api.github.com/repos/bytedance/deer-flow",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/deer-flow/pulls/7715",
+        "html_url": "https://github.com/bytedance/deer-flow/pull/7715",
+        "diff_url": "https://github.com/bytedance/deer-flow/pull/7715.diff",
+        "patch_url": "https://github.com/bytedance/deer-flow/pull/7715.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 2474,
+      "title": "fix(server): honor POSIX root in host path allowlists",
+      "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2474",
+      "repository_url": "https://api.github.com/repos/opensandbox-group/OpenSandbox",
+      "state": "closed",
+      "pull_request": {
+        "url": "https://api.github.com/repos/opensandbox-group/OpenSandbox/pulls/2474",
+        "html_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2474",
+        "diff_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2474.diff",
+        "patch_url": "https://github.com/opensandbox-group/OpenSandbox/pull/2474.patch",
+        "merged_at": "2026-10-29T09:09:17Z"
+      }
+    }
+  ]
+}

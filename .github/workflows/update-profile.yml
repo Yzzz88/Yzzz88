@@ -2,7 +2,7 @@ name: Refresh public contribution stats
 
 on:
   schedule:
-    - cron: '25 0 * * *'
+    - cron: '25 * * * *'
   workflow_dispatch:
 
 permissions:

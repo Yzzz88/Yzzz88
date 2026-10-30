@@ -17,10 +17,10 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="12" y="196" class="muted" style="font-size:17px">近 30 天 +2 个已合并 PR</text>
 <text x="12" y="234" font-size="17">最近 90 天 · 合并时间线</text>
 <path d="M18 296H302" class="line"/>
+<circle cx="295.6" cy="286" r="3.5" fill="#8663bf"/>
 <circle cx="298.8" cy="286" r="3.5" fill="#8663bf"/>
-<circle cx="302.0" cy="286" r="3.5" fill="#8663bf"/>
-<text x="12" y="321" class="muted mono" style="font-size:15px">08-02</text>
-<text x="308" y="321" class="muted mono" text-anchor="end" style="font-size:15px">10-30</text>
+<text x="12" y="321" class="muted mono" style="font-size:15px">08-03</text>
+<text x="308" y="321" class="muted mono" text-anchor="end" style="font-size:15px">10-31</text>
 <text x="12" y="356" font-size="20" font-weight="600">上游仓库</text>
 <rect x="12" y="370" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
 <text x="24" y="393" class="muted mono" style="font-size:16px">zauberzeug</text>
@@ -56,7 +56,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="24" y="1065" class="muted mono" style="font-size:16px">agentscope-ai</text>
 <text x="24" y="1094" class="mono" font-size="19" font-weight="600">agentscope</text>
 <text x="24" y="1124" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 34.9k</text>
+<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 35.0k</text>
 <rect x="12" y="1154" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
 <text x="24" y="1177" class="muted mono" style="font-size:16px">modelscope</text>
 <text x="24" y="1206" class="mono" font-size="19" font-weight="600">ms-agent</text>
@@ -68,5 +68,5 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="24" y="1348" font-size="16">已合并 0 · 待合并 1</text>
 <text x="296" y="1348" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 640</text>
 <text x="12" y="1406" class="muted" style="font-size:17px">每小时检查 · 变化时更新</text>
-<text x="12" y="1437" class="muted mono" style="font-size:15px">2026-10-30 19:29 (UTC+8)</text>
+<text x="12" y="1437" class="muted mono" style="font-size:15px">2026-10-31 02:06 (UTC+8)</text>
 </svg>

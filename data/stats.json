@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-31T23:48:13.974695+08:00",
+  "updated_at": "2026-11-01T04:06:40.850943+08:00",
   "repos": {
     "bytedance/deer-flow": {
-      "stars": 84762,
+      "stars": 84766,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
@@ -10,7 +10,7 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "Tencent/WeKnora": {
-      "stars": 36111,
+      "stars": 36117,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "zauberzeug/nicegui": {
@@ -18,23 +18,23 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160089,
+      "stars": 160101,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
-      "stars": 640,
+      "stars": 641,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35023,
+      "stars": 35032,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16333,
+      "stars": 16342,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4421,
+      "stars": 4422,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },

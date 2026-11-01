@@ -60,14 +60,14 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="80" y="696" class="mono" font-size="16" font-weight="600">langgenius/dify</text>
 <text x="688" y="696" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="696" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="696" class="muted mono" text-anchor="end">☆ 160.1k</text>
+<text x="960" y="696" class="muted mono" text-anchor="end">☆ 160.2k</text>
 <path d="M40 723H960" class="line"/>
 <rect x="40" y="746" width="24" height="24" rx="5" fill="#f2eef9"/>
 <text x="52" y="763" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">W</text>
 <text x="80" y="763" class="mono" font-size="16" font-weight="600">Tencent/WeKnora</text>
 <text x="688" y="763" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="763" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="763" class="muted mono" text-anchor="end">☆ 36.1k</text>
+<text x="960" y="763" class="muted mono" text-anchor="end">☆ 36.2k</text>
 <path d="M40 790H960" class="line"/>
 <rect x="40" y="813" width="24" height="24" rx="5" fill="#f2eef9"/>
 <text x="52" y="830" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">A</text>
@@ -91,5 +91,5 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="960" y="964" class="muted mono" text-anchor="end">☆ 641</text>
 <path d="M40 991H960" class="line"/>
 <text x="40" y="1029" class="muted">GitHub REST API · 每小时检查 · 变化时更新</text>
-<text x="960" y="1029" class="muted mono" text-anchor="end">2026-11-01 14:27 (UTC+8)</text>
+<text x="960" y="1029" class="muted mono" text-anchor="end">2026-11-01 22:22 (UTC+8)</text>
 </svg>

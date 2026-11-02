@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-02T10:37:35.411558+08:00",
+  "updated_at": "2026-11-02T19:27:47.193046+08:00",
   "repos": {
     "bytedance/deer-flow": {
-      "stars": 84842,
+      "stars": 84874,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
-      "stars": 12171,
+      "stars": 12173,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "Tencent/WeKnora": {
-      "stars": 36194,
+      "stars": 36245,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "zauberzeug/nicegui": {
-      "stars": 16330,
+      "stars": 16329,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160178,
+      "stars": 160224,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -26,15 +26,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35142,
+      "stars": 35201,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16365,
+      "stars": 16389,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4422,
+      "stars": 4421,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -44,13 +44,13 @@
       "title": "fix(docreader): preserve fenced base64 image examples",
       "html_url": "https://github.com/Tencent/WeKnora/pull/4893",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/4893",
         "html_url": "https://github.com/Tencent/WeKnora/pull/4893",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/4893.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/4893.patch",
-        "merged_at": null
+        "merged_at": "2026-11-02T06:51:27Z"
       }
     },
     {

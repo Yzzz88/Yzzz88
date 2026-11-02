@@ -7,13 +7,19 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 2 个 PR · 待合并 9 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 8 个 PR" width="100%">
 </picture>
 </a>
 
 ### 开源贡献
 
 待合并 PR 尚未被上游合并；状态与链接随公开数据更新。
+
+#### 已合并 · [WeKnora #4893](https://github.com/Tencent/WeKnora/pull/4893)
+
+fix(docreader): preserve fenced base64 image examples
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 #### 已合并 · [OpenSandbox #2474](https://github.com/opensandbox-group/OpenSandbox/pull/2474)
 
@@ -26,12 +32,6 @@
 Fix deep-copied observables notifying their original parent
 
 仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-
-#### 待合并 · [WeKnora #4893](https://github.com/Tencent/WeKnora/pull/4893)
-
-fix(docreader): preserve fenced base64 image examples
-
-仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 #### 待合并 · [agentscope #3593](https://github.com/agentscope-ai/agentscope/pull/3593)
 

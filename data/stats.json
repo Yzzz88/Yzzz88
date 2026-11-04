@@ -1,28 +1,36 @@
 {
-  "updated_at": "2026-11-04T15:36:15.179678+08:00",
+  "updated_at": "2026-11-05T00:26:02.023974+08:00",
   "repos": {
+    "Tencent/BrowserSkill": {
+      "stars": 10012,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    "Tencent/WeKnora": {
+      "stars": 36472,
+      "url": "https://github.com/Tencent/WeKnora"
+    },
+    "google/adk-python": {
+      "stars": 22105,
+      "url": "https://github.com/google/adk-python"
+    },
     "evalstate/fast-agent": {
       "stars": 3960,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/deer-flow": {
-      "stars": 84967,
+      "stars": 84982,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
-      "stars": 12174,
+      "stars": 12176,
       "url": "https://github.com/bytedance/trae-agent"
     },
-    "Tencent/WeKnora": {
-      "stars": 36432,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
     "zauberzeug/nicegui": {
-      "stars": 16329,
+      "stars": 16328,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160373,
+      "stars": 160402,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -30,11 +38,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35349,
+      "stars": 35375,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16437,
+      "stars": 16448,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -43,6 +51,20 @@
     }
   },
   "pulls": [
+    {
+      "number": 591,
+      "title": "fix: reject inherited names as press keys",
+      "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",
+      "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/591",
+        "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",
+        "diff_url": "https://github.com/Tencent/BrowserSkill/pull/591.diff",
+        "patch_url": "https://github.com/Tencent/BrowserSkill/pull/591.patch",
+        "merged_at": null
+      }
+    },
     {
       "number": 4893,
       "title": "fix(docreader): preserve fenced base64 image examples",
@@ -55,6 +77,20 @@
         "diff_url": "https://github.com/Tencent/WeKnora/pull/4893.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/4893.patch",
         "merged_at": "2026-11-02T06:51:27Z"
+      }
+    },
+    {
+      "number": 5135,
+      "title": "fix: preview resources with unsaved datasource credentials",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5135",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5135",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5135",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5135.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5135.patch",
+        "merged_at": null
       }
     },
     {
@@ -138,6 +174,20 @@
         "html_url": "https://github.com/evalstate/fast-agent/pull/1062",
         "diff_url": "https://github.com/evalstate/fast-agent/pull/1062.diff",
         "patch_url": "https://github.com/evalstate/fast-agent/pull/1062.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 7986,
+      "title": "fix(live): detect audio media types case insensitively",
+      "html_url": "https://github.com/google/adk-python/pull/7986",
+      "repository_url": "https://api.github.com/repos/google/adk-python",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/google/adk-python/pulls/7986",
+        "html_url": "https://github.com/google/adk-python/pull/7986",
+        "diff_url": "https://github.com/google/adk-python/pull/7986.diff",
+        "patch_url": "https://github.com/google/adk-python/pull/7986.patch",
         "merged_at": null
       }
     },

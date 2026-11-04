@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 9 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 12 个 PR" width="100%">
 </picture>
 </a>
 
@@ -32,6 +32,18 @@ fix(docreader): preserve fenced base64 image examples
 Fix deep-copied observables notifying their original parent
 
 仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+
+#### 待合并 · [BrowserSkill #591](https://github.com/Tencent/BrowserSkill/pull/591)
+
+fix: reject inherited names as press keys
+
+仓库：[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+
+#### 待合并 · [WeKnora #5135](https://github.com/Tencent/WeKnora/pull/5135)
+
+fix: preview resources with unsaved datasource credentials
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 #### 待合并 · [agentscope #3593](https://github.com/agentscope-ai/agentscope/pull/3593)
 
@@ -68,6 +80,12 @@ fix(bash): serialize shared shell session operations
 test: cover stream retry recovery
 
 仓库：[evalstate/fast-agent](https://github.com/evalstate/fast-agent)
+
+#### 待合并 · [adk-python #7986](https://github.com/google/adk-python/pull/7986)
+
+fix(live): detect audio media types case insensitively
+
+仓库：[google/adk-python](https://github.com/google/adk-python)
 
 #### 待合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
 

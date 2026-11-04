@@ -1,8 +1,12 @@
 {
-  "updated_at": "2026-11-04T08:43:00.061057+08:00",
+  "updated_at": "2026-11-04T15:36:15.179678+08:00",
   "repos": {
+    "evalstate/fast-agent": {
+      "stars": 3960,
+      "url": "https://github.com/evalstate/fast-agent"
+    },
     "bytedance/deer-flow": {
-      "stars": 84954,
+      "stars": 84967,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
@@ -10,7 +14,7 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "Tencent/WeKnora": {
-      "stars": 36385,
+      "stars": 36432,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "zauberzeug/nicegui": {
@@ -18,7 +22,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160342,
+      "stars": 160373,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -26,11 +30,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35319,
+      "stars": 35349,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16433,
+      "stars": 16437,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -120,6 +124,20 @@
         "html_url": "https://github.com/bytedance/trae-agent/pull/563",
         "diff_url": "https://github.com/bytedance/trae-agent/pull/563.diff",
         "patch_url": "https://github.com/bytedance/trae-agent/pull/563.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1062,
+      "title": "test: cover stream retry recovery",
+      "html_url": "https://github.com/evalstate/fast-agent/pull/1062",
+      "repository_url": "https://api.github.com/repos/evalstate/fast-agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/evalstate/fast-agent/pulls/1062",
+        "html_url": "https://github.com/evalstate/fast-agent/pull/1062",
+        "diff_url": "https://github.com/evalstate/fast-agent/pull/1062.diff",
+        "patch_url": "https://github.com/evalstate/fast-agent/pull/1062.patch",
         "merged_at": null
       }
     },

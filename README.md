@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 8 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 9 个 PR" width="100%">
 </picture>
 </a>
 
@@ -62,6 +62,12 @@ fix(ckg): invalidate persisted snapshots when dirty file contents change
 fix(bash): serialize shared shell session operations
 
 仓库：[bytedance/trae-agent](https://github.com/bytedance/trae-agent)
+
+#### 待合并 · [fast-agent #1062](https://github.com/evalstate/fast-agent/pull/1062)
+
+test: cover stream retry recovery
+
+仓库：[evalstate/fast-agent](https://github.com/evalstate/fast-agent)
 
 #### 待合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
 

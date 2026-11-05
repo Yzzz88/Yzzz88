@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-05T11:34:28.180153+08:00",
+  "updated_at": "2026-11-05T20:33:52.323048+08:00",
   "repos": {
-    "Tencent/BrowserSkill": {
-      "stars": 10025,
-      "url": "https://github.com/Tencent/BrowserSkill"
-    },
     "Tencent/WeKnora": {
-      "stars": 36509,
+      "stars": 36567,
       "url": "https://github.com/Tencent/WeKnora"
     },
+    "Tencent/BrowserSkill": {
+      "stars": 10053,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
     "google/adk-python": {
-      "stars": 22108,
+      "stars": 22112,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3961,
+      "stars": 3962,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/deer-flow": {
-      "stars": 85006,
+      "stars": 85022,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
-      "stars": 12184,
+      "stars": 12185,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16329,
+      "stars": 16330,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160426,
+      "stars": 160452,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -38,15 +38,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35395,
+      "stars": 35409,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16453,
+      "stars": 16462,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4422,
+      "stars": 4424,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -90,6 +90,20 @@
         "html_url": "https://github.com/Tencent/WeKnora/pull/5135",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5135.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5135.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5156,
+      "title": "fix(docparser): preserve DOCX vector assets through fallback",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5156",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5156",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5156",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5156.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5156.patch",
         "merged_at": null
       }
     },

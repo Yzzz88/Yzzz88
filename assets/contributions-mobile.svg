@@ -32,7 +32,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="24" y="505" class="muted mono" style="font-size:16px">opensandbox-group</text>
 <text x="24" y="534" class="mono" font-size="19" font-weight="600">OpenSandbox</text>
 <text x="24" y="564" font-size="16">已合并 1 · 待合并 0</text>
-<text x="296" y="564" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.4k</text>
+<text x="296" y="564" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.5k</text>
 <rect x="12" y="594" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
 <text x="24" y="617" class="muted mono" style="font-size:16px">zauberzeug</text>
 <text x="24" y="646" class="mono" font-size="19" font-weight="600">nicegui</text>
@@ -84,5 +84,5 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="24" y="1684" font-size="16">已合并 0 · 待合并 1</text>
 <text x="296" y="1684" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 641</text>
 <text x="12" y="1742" class="muted" style="font-size:17px">每小时检查 · 变化时更新</text>
-<text x="12" y="1773" class="muted mono" style="font-size:15px">2026-11-05 06:42 (UTC+8)</text>
+<text x="12" y="1773" class="muted mono" style="font-size:15px">2026-11-05 11:34 (UTC+8)</text>
 </svg>

@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-07T07:18:46.180492+08:00",
+  "updated_at": "2026-11-07T10:56:38.777551+08:00",
   "repos": {
     "Tencent/WeKnora": {
-      "stars": 36683,
+      "stars": 36694,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10125,
+      "stars": 10128,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22126,
+      "stars": 22127,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -18,7 +18,7 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/deer-flow": {
-      "stars": 85074,
+      "stars": 85084,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "bytedance/trae-agent": {
@@ -30,7 +30,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160569,
+      "stars": 160581,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -38,11 +38,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35514,
+      "stars": 35521,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16483,
+      "stars": 16485,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 13 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 15 个 PR" width="100%">
 </picture>
 </a>
 
@@ -51,6 +51,12 @@ fix(docparser): preserve DOCX vector assets through fallback
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
+#### 待合并 · [WeKnora #5260](https://github.com/Tencent/WeKnora/pull/5260)
+
+fix(agent): budget rendered document query rows
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
 #### 待合并 · [agentscope #3593](https://github.com/agentscope-ai/agentscope/pull/3593)
 
 尝试次数耗尽时先收束状态，再发出步骤结束事件
@@ -63,9 +69,15 @@ fix(docparser): preserve DOCX vector assets through fallback
 
 仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
-#### 待合并 · [deer-flow #7719](https://github.com/bytedance/deer-flow/pull/7719)
+#### 已关闭，未合并 · [deer-flow #7719](https://github.com/bytedance/deer-flow/pull/7719)
 
 fix(skills): keep data-analysis cache snapshots read-only
+
+仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+#### 待合并 · [deer-flow #7980](https://github.com/bytedance/deer-flow/pull/7980)
+
+fix(artifacts): reject ZIP file-directory path collisions
 
 仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
@@ -86,6 +98,12 @@ fix(bash): serialize shared shell session operations
 test: cover stream retry recovery
 
 仓库：[evalstate/fast-agent](https://github.com/evalstate/fast-agent)
+
+#### 待合并 · [anydoc #221](https://github.com/firecrawl/anydoc/pull/221)
+
+fix(pptx): preserve sparse chart point alignment
+
+仓库：[firecrawl/anydoc](https://github.com/firecrawl/anydoc)
 
 #### 待合并 · [adk-python #7986](https://github.com/google/adk-python/pull/7986)
 

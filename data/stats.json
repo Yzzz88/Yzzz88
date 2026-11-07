@@ -1,36 +1,40 @@
 {
-  "updated_at": "2026-11-07T18:29:00.369601+08:00",
+  "updated_at": "2026-11-08T00:55:19.569931+08:00",
   "repos": {
+    "bytedance/deer-flow": {
+      "stars": 85111,
+      "url": "https://github.com/bytedance/deer-flow"
+    },
     "Tencent/WeKnora": {
-      "stars": 36719,
+      "stars": 36735,
       "url": "https://github.com/Tencent/WeKnora"
     },
+    "firecrawl/anydoc": {
+      "stars": 23412,
+      "url": "https://github.com/firecrawl/anydoc"
+    },
     "Tencent/BrowserSkill": {
-      "stars": 10143,
+      "stars": 10155,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22130,
+      "stars": 22133,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3959,
+      "stars": 3960,
       "url": "https://github.com/evalstate/fast-agent"
     },
-    "bytedance/deer-flow": {
-      "stars": 85102,
-      "url": "https://github.com/bytedance/deer-flow"
-    },
     "bytedance/trae-agent": {
-      "stars": 12191,
+      "stars": 12189,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16330,
+      "stars": 16331,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160597,
+      "stars": 160620,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -38,11 +42,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35542,
+      "stars": 35553,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16492,
+      "stars": 16494,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -108,6 +112,20 @@
       }
     },
     {
+      "number": 5260,
+      "title": "fix(agent): budget rendered document query rows",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5260",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5260",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5260",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5260.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5260.patch",
+        "merged_at": null
+      }
+    },
+    {
       "number": 3593,
       "title": "fix(sop): settle exhausted attempts before emitting step endings",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
@@ -140,12 +158,26 @@
       "title": "fix(skills): keep data-analysis cache snapshots read-only",
       "html_url": "https://github.com/bytedance/deer-flow/pull/7719",
       "repository_url": "https://api.github.com/repos/bytedance/deer-flow",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/bytedance/deer-flow/pulls/7719",
         "html_url": "https://github.com/bytedance/deer-flow/pull/7719",
         "diff_url": "https://github.com/bytedance/deer-flow/pull/7719.diff",
         "patch_url": "https://github.com/bytedance/deer-flow/pull/7719.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 7980,
+      "title": "fix(artifacts): reject ZIP file-directory path collisions",
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7980",
+      "repository_url": "https://api.github.com/repos/bytedance/deer-flow",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/deer-flow/pulls/7980",
+        "html_url": "https://github.com/bytedance/deer-flow/pull/7980",
+        "diff_url": "https://github.com/bytedance/deer-flow/pull/7980.diff",
+        "patch_url": "https://github.com/bytedance/deer-flow/pull/7980.patch",
         "merged_at": null
       }
     },
@@ -188,6 +220,20 @@
         "html_url": "https://github.com/evalstate/fast-agent/pull/1062",
         "diff_url": "https://github.com/evalstate/fast-agent/pull/1062.diff",
         "patch_url": "https://github.com/evalstate/fast-agent/pull/1062.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 221,
+      "title": "fix(pptx): preserve sparse chart point alignment",
+      "html_url": "https://github.com/firecrawl/anydoc/pull/221",
+      "repository_url": "https://api.github.com/repos/firecrawl/anydoc",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/firecrawl/anydoc/pulls/221",
+        "html_url": "https://github.com/firecrawl/anydoc/pull/221",
+        "diff_url": "https://github.com/firecrawl/anydoc/pull/221.diff",
+        "patch_url": "https://github.com/firecrawl/anydoc/pull/221.patch",
         "merged_at": null
       }
     },

@@ -1,24 +1,28 @@
 {
-  "updated_at": "2026-11-08T08:48:05.997423+08:00",
+  "updated_at": "2026-11-08T15:31:43.245361+08:00",
   "repos": {
+    "infiniflow/ragflow": {
+      "stars": 93746,
+      "url": "https://github.com/infiniflow/ragflow"
+    },
+    "firecrawl/anydoc": {
+      "stars": 23421,
+      "url": "https://github.com/firecrawl/anydoc"
+    },
     "bytedance/deer-flow": {
-      "stars": 85116,
+      "stars": 85119,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/WeKnora": {
-      "stars": 36745,
+      "stars": 36776,
       "url": "https://github.com/Tencent/WeKnora"
     },
-    "firecrawl/anydoc": {
-      "stars": 23418,
-      "url": "https://github.com/firecrawl/anydoc"
-    },
     "Tencent/BrowserSkill": {
-      "stars": 10157,
+      "stars": 10165,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22137,
+      "stars": 22139,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -26,15 +30,15 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12190,
+      "stars": 12191,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16331,
+      "stars": 16330,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160633,
+      "stars": 160647,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -42,15 +46,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35561,
+      "stars": 35578,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16511,
+      "stars": 16540,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4424,
+      "stars": 4423,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -238,6 +242,20 @@
       }
     },
     {
+      "number": 222,
+      "title": "fix(docx): retain embedded OLE preview images",
+      "html_url": "https://github.com/firecrawl/anydoc/pull/222",
+      "repository_url": "https://api.github.com/repos/firecrawl/anydoc",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/firecrawl/anydoc/pulls/222",
+        "html_url": "https://github.com/firecrawl/anydoc/pull/222",
+        "diff_url": "https://github.com/firecrawl/anydoc/pull/222.diff",
+        "patch_url": "https://github.com/firecrawl/anydoc/pull/222.patch",
+        "merged_at": null
+      }
+    },
+    {
       "number": 7986,
       "title": "fix(live): detect audio media types case insensitively",
       "html_url": "https://github.com/google/adk-python/pull/7986",
@@ -248,6 +266,20 @@
         "html_url": "https://github.com/google/adk-python/pull/7986",
         "diff_url": "https://github.com/google/adk-python/pull/7986.diff",
         "patch_url": "https://github.com/google/adk-python/pull/7986.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 22127,
+      "title": "fix(upload): preserve Markdown source during normalization",
+      "html_url": "https://github.com/infiniflow/ragflow/pull/22127",
+      "repository_url": "https://api.github.com/repos/infiniflow/ragflow",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/infiniflow/ragflow/pulls/22127",
+        "html_url": "https://github.com/infiniflow/ragflow/pull/22127",
+        "diff_url": "https://github.com/infiniflow/ragflow/pull/22127.diff",
+        "patch_url": "https://github.com/infiniflow/ragflow/pull/22127.patch",
         "merged_at": null
       }
     },

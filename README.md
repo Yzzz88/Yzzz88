@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 15 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 17 个 PR" width="100%">
 </picture>
 </a>
 
@@ -105,11 +105,23 @@ fix(pptx): preserve sparse chart point alignment
 
 仓库：[firecrawl/anydoc](https://github.com/firecrawl/anydoc)
 
+#### 待合并 · [anydoc #222](https://github.com/firecrawl/anydoc/pull/222)
+
+fix(docx): retain embedded OLE preview images
+
+仓库：[firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+
 #### 待合并 · [adk-python #7986](https://github.com/google/adk-python/pull/7986)
 
 fix(live): detect audio media types case insensitively
 
 仓库：[google/adk-python](https://github.com/google/adk-python)
+
+#### 待合并 · [ragflow #22127](https://github.com/infiniflow/ragflow/pull/22127)
+
+fix(upload): preserve Markdown source during normalization
+
+仓库：[infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 #### 待合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
 

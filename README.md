@@ -33,12 +33,6 @@ Fix deep-copied observables notifying their original parent
 
 仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
-#### 已关闭，未合并 · [BrowserSkill #591](https://github.com/Tencent/BrowserSkill/pull/591)
-
-fix: reject inherited names as press keys
-
-仓库：[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-
 #### 待合并 · [WeKnora #5135](https://github.com/Tencent/WeKnora/pull/5135)
 
 fix: preview resources with unsaved datasource credentials

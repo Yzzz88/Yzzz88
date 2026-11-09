@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 17 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 16 个 PR" width="100%">
 </picture>
 </a>
 
@@ -33,7 +33,7 @@ Fix deep-copied observables notifying their original parent
 
 仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
-#### 待合并 · [BrowserSkill #591](https://github.com/Tencent/BrowserSkill/pull/591)
+#### 已关闭，未合并 · [BrowserSkill #591](https://github.com/Tencent/BrowserSkill/pull/591)
 
 fix: reject inherited names as press keys
 

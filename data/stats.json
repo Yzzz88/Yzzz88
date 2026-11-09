@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-09T07:49:25.333695+08:00",
+  "updated_at": "2026-11-09T14:54:54.497724+08:00",
   "repos": {
     "infiniflow/ragflow": {
-      "stars": 93781,
+      "stars": 93804,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23438,
+      "stars": 23443,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85143,
+      "stars": 85163,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/WeKnora": {
-      "stars": 36835,
+      "stars": 36912,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10189,
+      "stars": 10209,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22149,
+      "stars": 22151,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -30,7 +30,7 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12193,
+      "stars": 12194,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -38,7 +38,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160688,
+      "stars": 160718,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -46,15 +46,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35618,
+      "stars": 35650,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16683,
+      "stars": 16709,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4423,
+      "stars": 4424,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -64,7 +64,7 @@
       "title": "fix: reject inherited names as press keys",
       "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",
       "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/591",
         "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",

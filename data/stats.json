@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-09T14:54:54.497724+08:00",
+  "updated_at": "2026-11-10T01:41:02.622546+08:00",
   "repos": {
     "infiniflow/ragflow": {
-      "stars": 93804,
+      "stars": 93880,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23443,
+      "stars": 23458,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85163,
+      "stars": 85189,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/WeKnora": {
-      "stars": 36912,
+      "stars": 36990,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10209,
+      "stars": 10232,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22151,
+      "stars": 22162,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3960,
+      "stars": 3961,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12194,
+      "stars": 12196,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -38,7 +38,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160718,
+      "stars": 160768,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -46,11 +46,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35650,
+      "stars": 35684,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 16709,
+      "stars": 16818,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -106,13 +106,13 @@
       "title": "fix(docparser): preserve DOCX vector assets through fallback",
       "html_url": "https://github.com/Tencent/WeKnora/pull/5156",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5156",
         "html_url": "https://github.com/Tencent/WeKnora/pull/5156",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5156.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5156.patch",
-        "merged_at": null
+        "merged_at": "2026-11-09T10:23:28Z"
       }
     },
     {
@@ -120,13 +120,13 @@
       "title": "fix(agent): budget rendered document query rows",
       "html_url": "https://github.com/Tencent/WeKnora/pull/5260",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5260",
         "html_url": "https://github.com/Tencent/WeKnora/pull/5260",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5260.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5260.patch",
-        "merged_at": null
+        "merged_at": "2026-11-09T09:52:15Z"
       }
     },
     {

@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 3 个 PR · 待合并 16 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 14 个 PR" width="100%">
 </picture>
 </a>
 
@@ -18,6 +18,18 @@
 #### 已合并 · [WeKnora #4893](https://github.com/Tencent/WeKnora/pull/4893)
 
 fix(docreader): preserve fenced base64 image examples
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 已合并 · [WeKnora #5156](https://github.com/Tencent/WeKnora/pull/5156)
+
+fix(docparser): preserve DOCX vector assets through fallback
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 已合并 · [WeKnora #5260](https://github.com/Tencent/WeKnora/pull/5260)
+
+fix(agent): budget rendered document query rows
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
@@ -33,21 +45,15 @@ Fix deep-copied observables notifying their original parent
 
 仓库：[zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 
+#### 已关闭，未合并 · [BrowserSkill #591](https://github.com/Tencent/BrowserSkill/pull/591)
+
+fix: reject inherited names as press keys
+
+仓库：[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+
 #### 待合并 · [WeKnora #5135](https://github.com/Tencent/WeKnora/pull/5135)
 
 fix: preview resources with unsaved datasource credentials
-
-仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-#### 待合并 · [WeKnora #5156](https://github.com/Tencent/WeKnora/pull/5156)
-
-fix(docparser): preserve DOCX vector assets through fallback
-
-仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-#### 待合并 · [WeKnora #5260](https://github.com/Tencent/WeKnora/pull/5260)
-
-fix(agent): budget rendered document query rows
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 

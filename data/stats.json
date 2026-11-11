@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-11T14:49:22.410795+08:00",
+  "updated_at": "2026-11-11T23:31:43.163075+08:00",
   "repos": {
     "infiniflow/ragflow": {
-      "stars": 93996,
+      "stars": 94032,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23484,
+      "stars": 23490,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85235,
+      "stars": 85250,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/WeKnora": {
-      "stars": 37143,
+      "stars": 37193,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10302,
+      "stars": 10316,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22177,
+      "stars": 22179,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -34,11 +34,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16332,
+      "stars": 16333,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 160927,
+      "stars": 160972,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -46,15 +46,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35770,
+      "stars": 35803,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17167,
+      "stars": 17193,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4425,
+      "stars": 4428,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -288,7 +288,7 @@
       "title": "fix(json_process): delete array elements by matched indices",
       "html_url": "https://github.com/langgenius/dify-official-plugins/pull/4150",
       "repository_url": "https://api.github.com/repos/langgenius/dify-official-plugins",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/langgenius/dify-official-plugins/pulls/4150",
         "html_url": "https://github.com/langgenius/dify-official-plugins/pull/4150",

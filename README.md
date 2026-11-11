@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 14 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 13 个 PR" width="100%">
 </picture>
 </a>
 
@@ -123,7 +123,7 @@ fix(upload): preserve Markdown source during normalization
 
 仓库：[infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
-#### 待合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
+#### 已关闭，未合并 · [dify-official-plugins #4150](https://github.com/langgenius/dify-official-plugins/pull/4150)
 
 按匹配索引删除 JSON 数组元素
 

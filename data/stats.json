@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-12T20:58:18.623449+08:00",
+  "updated_at": "2026-11-13T04:57:30.516478+08:00",
   "repos": {
     "infiniflow/ragflow": {
-      "stars": 94083,
+      "stars": 94093,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23508,
+      "stars": 23515,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85281,
+      "stars": 85284,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/WeKnora": {
-      "stars": 37292,
+      "stars": 37314,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10344,
+      "stars": 10348,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22189,
+      "stars": 22195,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -30,15 +30,15 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12198,
+      "stars": 12199,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16335,
+      "stars": 16336,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161035,
+      "stars": 161055,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -46,15 +46,15 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35865,
+      "stars": 35876,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17233,
+      "stars": 17251,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4428,
+      "stars": 4427,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },

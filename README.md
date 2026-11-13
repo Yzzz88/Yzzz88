@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 16 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 19 个 PR" width="100%">
 </picture>
 </a>
 
@@ -98,6 +98,24 @@ fix(skills): keep data-analysis cache snapshots read-only
 fix(artifacts): reject ZIP file-directory path collisions
 
 仓库：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+
+#### 待合并 · [flowgram.ai #1252](https://github.com/bytedance/flowgram.ai/pull/1252)
+
+fix(runtime): report loop iteration failures
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+
+#### 待合并 · [flowgram.ai #1254](https://github.com/bytedance/flowgram.ai/pull/1254)
+
+fix(runtime): stop evaluating conditions after a match
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+
+#### 待合并 · [flowgram.ai #1256](https://github.com/bytedance/flowgram.ai/pull/1256)
+
+fix(runtime): preserve explicit null workflow outputs
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
 
 #### 待合并 · [trae-agent #562](https://github.com/bytedance/trae-agent/pull/562)
 

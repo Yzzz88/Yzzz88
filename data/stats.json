@@ -1,40 +1,44 @@
 {
-  "updated_at": "2026-11-13T17:45:27.516547+08:00",
+  "updated_at": "2026-11-14T01:54:44.903787+08:00",
   "repos": {
+    "bytedance/flowgram.ai": {
+      "stars": 8578,
+      "url": "https://github.com/bytedance/flowgram.ai"
+    },
     "agentscope-ai/agentscope": {
-      "stars": 35913,
+      "stars": 35946,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37364,
+      "stars": 37389,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94112,
+      "stars": 94121,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23528,
+      "stars": 23532,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85306,
+      "stars": 85312,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10369,
+      "stars": 10381,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22199,
+      "stars": 22203,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3965,
+      "stars": 3967,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12199,
+      "stars": 12200,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -42,7 +46,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161081,
+      "stars": 161104,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -50,7 +54,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17262,
+      "stars": 17274,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -224,6 +228,48 @@
         "html_url": "https://github.com/bytedance/deer-flow/pull/7980",
         "diff_url": "https://github.com/bytedance/deer-flow/pull/7980.diff",
         "patch_url": "https://github.com/bytedance/deer-flow/pull/7980.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1252,
+      "title": "fix(runtime): report loop iteration failures",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1252",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1252",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1252",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1252.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1252.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1254,
+      "title": "fix(runtime): stop evaluating conditions after a match",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1254",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1254",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1254",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1254.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1254.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1256,
+      "title": "fix(runtime): preserve explicit null workflow outputs",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1256",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1256",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1256",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1256.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1256.patch",
         "merged_at": null
       }
     },

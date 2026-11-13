@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 13 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 16 个 PR" width="100%">
 </picture>
 </a>
 
@@ -57,9 +57,27 @@ fix: preview resources with unsaved datasource credentials
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
+#### 待合并 · [WeKnora #5476](https://github.com/Tencent/WeKnora/pull/5476)
+
+fix(docreader): extract designated EPUB cover images
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
 #### 待合并 · [agentscope #3593](https://github.com/agentscope-ai/agentscope/pull/3593)
 
 尝试次数耗尽时先收束状态，再发出步骤结束事件
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
+#### 待合并 · [agentscope #4000](https://github.com/agentscope-ai/agentscope/pull/4000)
+
+fix(rag): preserve run tabs in Word table cells
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
+#### 待合并 · [agentscope #4002](https://github.com/agentscope-ai/agentscope/pull/4002)
+
+fix(rag): preserve PDF page numbers in citations
 
 仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 

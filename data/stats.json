@@ -1,28 +1,32 @@
 {
-  "updated_at": "2026-11-13T09:59:19.430769+08:00",
+  "updated_at": "2026-11-13T17:45:27.516547+08:00",
   "repos": {
+    "agentscope-ai/agentscope": {
+      "stars": 35913,
+      "url": "https://github.com/agentscope-ai/agentscope"
+    },
+    "Tencent/WeKnora": {
+      "stars": 37364,
+      "url": "https://github.com/Tencent/WeKnora"
+    },
     "infiniflow/ragflow": {
-      "stars": 94097,
+      "stars": 94112,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23521,
+      "stars": 23528,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85287,
+      "stars": 85306,
       "url": "https://github.com/bytedance/deer-flow"
     },
-    "Tencent/WeKnora": {
-      "stars": 37326,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
     "Tencent/BrowserSkill": {
-      "stars": 10352,
+      "stars": 10369,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22197,
+      "stars": 22199,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -38,19 +42,15 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161061,
+      "stars": 161081,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
       "stars": 641,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
-    "agentscope-ai/agentscope": {
-      "stars": 35882,
-      "url": "https://github.com/agentscope-ai/agentscope"
-    },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17256,
+      "stars": 17262,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -130,6 +130,20 @@
       }
     },
     {
+      "number": 5476,
+      "title": "fix(docreader): extract designated EPUB cover images",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5476",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5476",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5476",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5476.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5476.patch",
+        "merged_at": null
+      }
+    },
+    {
       "number": 3593,
       "title": "fix(sop): settle exhausted attempts before emitting step endings",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
@@ -140,6 +154,34 @@
         "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/3593.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/3593.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 4000,
+      "title": "fix(rag): preserve run tabs in Word table cells",
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4000",
+      "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4000",
+        "html_url": "https://github.com/agentscope-ai/agentscope/pull/4000",
+        "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4000.diff",
+        "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4000.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 4002,
+      "title": "fix(rag): preserve PDF page numbers in citations",
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4002",
+      "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4002",
+        "html_url": "https://github.com/agentscope-ai/agentscope/pull/4002",
+        "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4002.diff",
+        "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4002.patch",
         "merged_at": null
       }
     },

@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-14T14:45:56.802140+08:00",
+  "updated_at": "2026-11-14T22:20:40.510490+08:00",
   "repos": {
     "bytedance/flowgram.ai": {
-      "stars": 8578,
+      "stars": 8581,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "agentscope-ai/agentscope": {
-      "stars": 35970,
+      "stars": 35987,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37410,
+      "stars": 37421,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94132,
+      "stars": 94141,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23539,
+      "stars": 23543,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85323,
+      "stars": 85333,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10388,
+      "stars": 10400,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22210,
+      "stars": 22212,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -38,7 +38,7 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12201,
+      "stars": 12202,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -46,7 +46,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161128,
+      "stars": 161151,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,11 +54,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17286,
+      "stars": 17291,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4427,
+      "stars": 4426,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },

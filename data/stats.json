@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-11-15T10:51:33.470255+08:00",
+  "updated_at": "2026-11-15T19:15:22.321401+08:00",
   "repos": {
     "bytedance/flowgram.ai": {
-      "stars": 8581,
+      "stars": 8582,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36010,
+      "stars": 36029,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37435,
+      "stars": 37445,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94161,
+      "stars": 94175,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23545,
+      "stars": 23546,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85352,
+      "stars": 85357,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10411,
+      "stars": 10417,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22220,
+      "stars": 22226,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3968,
+      "stars": 3969,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
@@ -42,11 +42,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16336,
+      "stars": 16339,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161171,
+      "stars": 161186,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,11 +54,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17304,
+      "stars": 17316,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4426,
+      "stars": 4427,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },

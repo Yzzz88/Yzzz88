@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-16T01:52:29.372912+08:00",
+  "updated_at": "2026-11-16T06:59:47.824844+08:00",
   "repos": {
     "bytedance/flowgram.ai": {
       "stars": 8583,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36044,
+      "stars": 36048,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37465,
+      "stars": 37473,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94190,
+      "stars": 94194,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23554,
+      "stars": 23552,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85367,
+      "stars": 85371,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10423,
+      "stars": 10425,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22228,
+      "stars": 22230,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3969,
+      "stars": 3970,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12202,
+      "stars": 12203,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -46,7 +46,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161203,
+      "stars": 161211,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17324,
+      "stars": 17330,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

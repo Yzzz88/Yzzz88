@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-16T10:53:02.679696+08:00",
+  "updated_at": "2026-11-16T19:47:17.552558+08:00",
   "repos": {
     "bytedance/flowgram.ai": {
-      "stars": 8583,
+      "stars": 8587,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36054,
+      "stars": 36083,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37490,
+      "stars": 37536,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94209,
+      "stars": 94235,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23552,
+      "stars": 23560,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85376,
+      "stars": 85395,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10432,
+      "stars": 10461,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22232,
+      "stars": 22237,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -38,23 +38,23 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12203,
+      "stars": 12205,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16341,
+      "stars": 16342,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161225,
+      "stars": 161264,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
-      "stars": 641,
+      "stars": 642,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17333,
+      "stars": 17344,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

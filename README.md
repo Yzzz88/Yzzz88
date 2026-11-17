@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 5 个 PR · 待合并 19 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 6 个 PR · 待合并 18 个 PR" width="100%">
 </picture>
 </a>
 
@@ -32,6 +32,12 @@ fix(docparser): preserve DOCX vector assets through fallback
 fix(agent): budget rendered document query rows
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 已合并 · [agentscope #4000](https://github.com/agentscope-ai/agentscope/pull/4000)
+
+fix(rag): preserve run tabs in Word table cells
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 
 #### 已合并 · [OpenSandbox #2474](https://github.com/opensandbox-group/OpenSandbox/pull/2474)
 
@@ -66,12 +72,6 @@ fix(docreader): extract designated EPUB cover images
 #### 待合并 · [agentscope #3593](https://github.com/agentscope-ai/agentscope/pull/3593)
 
 尝试次数耗尽时先收束状态，再发出步骤结束事件
-
-仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-
-#### 待合并 · [agentscope #4000](https://github.com/agentscope-ai/agentscope/pull/4000)
-
-fix(rag): preserve run tabs in Word table cells
 
 仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 

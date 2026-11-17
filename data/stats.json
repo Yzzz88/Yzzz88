@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-11-17T12:39:35.804963+08:00",
+  "updated_at": "2026-11-17T22:41:45.273564+08:00",
   "repos": {
     "bytedance/flowgram.ai": {
       "stars": 8589,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36106,
+      "stars": 36159,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "Tencent/WeKnora": {
-      "stars": 37593,
+      "stars": 37650,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94275,
+      "stars": 94308,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23573,
+      "stars": 23581,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85412,
+      "stars": 85440,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10482,
+      "stars": 10502,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22245,
+      "stars": 22248,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3971,
+      "stars": 3972,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
@@ -42,11 +42,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16345,
+      "stars": 16346,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161313,
+      "stars": 161356,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,11 +54,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17393,
+      "stars": 17447,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4428,
+      "stars": 4427,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -166,13 +166,13 @@
       "title": "fix(rag): preserve run tabs in Word table cells",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/4000",
       "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4000",
         "html_url": "https://github.com/agentscope-ai/agentscope/pull/4000",
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4000.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4000.patch",
-        "merged_at": null
+        "merged_at": "2026-11-17T08:29:49Z"
       }
     },
     {

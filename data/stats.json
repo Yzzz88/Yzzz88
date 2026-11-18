@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-18T12:35:29.405003+08:00",
+  "updated_at": "2026-11-18T22:20:23.816387+08:00",
   "repos": {
+    "agentscope-ai/agentscope": {
+      "stars": 36231,
+      "url": "https://github.com/agentscope-ai/agentscope"
+    },
     "bytedance/flowgram.ai": {
       "stars": 8592,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
-    "agentscope-ai/agentscope": {
-      "stars": 36193,
-      "url": "https://github.com/agentscope-ai/agentscope"
-    },
     "Tencent/WeKnora": {
-      "stars": 37688,
+      "stars": 37739,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94350,
+      "stars": 94379,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23590,
+      "stars": 23599,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85467,
+      "stars": 85481,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10527,
+      "stars": 10549,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22256,
+      "stars": 22260,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -38,23 +38,23 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12207,
+      "stars": 12208,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16349,
+      "stars": 16348,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161386,
+      "stars": 161424,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
-      "stars": 642,
+      "stars": 643,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17499,
+      "stars": 17546,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -190,6 +190,34 @@
       }
     },
     {
+      "number": 4130,
+      "title": "fix(rag): index PPTX text with text-only embedding models",
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4130",
+      "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4130",
+        "html_url": "https://github.com/agentscope-ai/agentscope/pull/4130",
+        "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4130.diff",
+        "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4130.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 4131,
+      "title": "fix(rag): report PDFs with no indexable text",
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4131",
+      "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4131",
+        "html_url": "https://github.com/agentscope-ai/agentscope/pull/4131",
+        "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4131.diff",
+        "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4131.patch",
+        "merged_at": null
+      }
+    },
+    {
       "number": 7715,
       "title": "fix(skills): prevent data-analysis exports from overwriting inputs",
       "html_url": "https://github.com/bytedance/deer-flow/pull/7715",
@@ -270,6 +298,48 @@
         "html_url": "https://github.com/bytedance/flowgram.ai/pull/1256",
         "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1256.diff",
         "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1256.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1280,
+      "title": "fix(runtime): stop HTTP retries after workflow cancellation",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1280",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1280",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1280",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1280.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1280.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1281,
+      "title": "fix(runtime): report missing outputs from loop iterations",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1281",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1281",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1281",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1281.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1281.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1282,
+      "title": "fix(runtime): let Fetch set the multipart boundary",
+      "html_url": "https://github.com/bytedance/flowgram.ai/pull/1282",
+      "repository_url": "https://api.github.com/repos/bytedance/flowgram.ai",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/bytedance/flowgram.ai/pulls/1282",
+        "html_url": "https://github.com/bytedance/flowgram.ai/pull/1282",
+        "diff_url": "https://github.com/bytedance/flowgram.ai/pull/1282.diff",
+        "patch_url": "https://github.com/bytedance/flowgram.ai/pull/1282.patch",
         "merged_at": null
       }
     },

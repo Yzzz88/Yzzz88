@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 6 个 PR · 待合并 18 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 6 个 PR · 待合并 23 个 PR" width="100%">
 </picture>
 </a>
 
@@ -81,6 +81,18 @@ fix(rag): preserve PDF page numbers in citations
 
 仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 
+#### 待合并 · [agentscope #4130](https://github.com/agentscope-ai/agentscope/pull/4130)
+
+fix(rag): index PPTX text with text-only embedding models
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
+#### 待合并 · [agentscope #4131](https://github.com/agentscope-ai/agentscope/pull/4131)
+
+fix(rag): report PDFs with no indexable text
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
 #### 待合并 · [deer-flow #7715](https://github.com/bytedance/deer-flow/pull/7715)
 
 防止数据分析导出文件覆盖输入文件
@@ -114,6 +126,24 @@ fix(runtime): stop evaluating conditions after a match
 #### 待合并 · [flowgram.ai #1256](https://github.com/bytedance/flowgram.ai/pull/1256)
 
 fix(runtime): preserve explicit null workflow outputs
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+
+#### 待合并 · [flowgram.ai #1280](https://github.com/bytedance/flowgram.ai/pull/1280)
+
+fix(runtime): stop HTTP retries after workflow cancellation
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+
+#### 待合并 · [flowgram.ai #1281](https://github.com/bytedance/flowgram.ai/pull/1281)
+
+fix(runtime): report missing outputs from loop iterations
+
+仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
+
+#### 待合并 · [flowgram.ai #1282](https://github.com/bytedance/flowgram.ai/pull/1282)
+
+fix(runtime): let Fetch set the multipart boundary
 
 仓库：[bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai)
 

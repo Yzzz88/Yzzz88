@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 6 个 PR · 待合并 23 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 8 个 PR · 待合并 21 个 PR" width="100%">
 </picture>
 </a>
 
@@ -36,6 +36,18 @@ fix(agent): budget rendered document query rows
 #### 已合并 · [agentscope #4000](https://github.com/agentscope-ai/agentscope/pull/4000)
 
 fix(rag): preserve run tabs in Word table cells
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
+#### 已合并 · [agentscope #4130](https://github.com/agentscope-ai/agentscope/pull/4130)
+
+fix(rag): index PPTX text with text-only embedding models
+
+仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
+
+#### 已合并 · [agentscope #4131](https://github.com/agentscope-ai/agentscope/pull/4131)
+
+fix(rag): report PDFs with no indexable text
 
 仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 
@@ -78,18 +90,6 @@ fix(docreader): extract designated EPUB cover images
 #### 待合并 · [agentscope #4002](https://github.com/agentscope-ai/agentscope/pull/4002)
 
 fix(rag): preserve PDF page numbers in citations
-
-仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-
-#### 待合并 · [agentscope #4130](https://github.com/agentscope-ai/agentscope/pull/4130)
-
-fix(rag): index PPTX text with text-only embedding models
-
-仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
-
-#### 待合并 · [agentscope #4131](https://github.com/agentscope-ai/agentscope/pull/4131)
-
-fix(rag): report PDFs with no indexable text
 
 仓库：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 

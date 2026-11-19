@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-19T11:41:45.670337+08:00",
+  "updated_at": "2026-11-19T21:34:28.383290+08:00",
   "repos": {
     "agentscope-ai/agentscope": {
-      "stars": 36260,
+      "stars": 36295,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8592,
+      "stars": 8593,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "Tencent/WeKnora": {
-      "stars": 37765,
+      "stars": 37798,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94405,
+      "stars": 94432,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23609,
+      "stars": 23616,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85503,
+      "stars": 85516,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10563,
+      "stars": 10584,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22267,
+      "stars": 22272,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -46,7 +46,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161460,
+      "stars": 161497,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,11 +54,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17618,
+      "stars": 17643,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4427,
+      "stars": 4428,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -194,13 +194,13 @@
       "title": "fix(rag): index PPTX text with text-only embedding models",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/4130",
       "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4130",
         "html_url": "https://github.com/agentscope-ai/agentscope/pull/4130",
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4130.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4130.patch",
-        "merged_at": null
+        "merged_at": "2026-11-19T08:43:25Z"
       }
     },
     {
@@ -208,13 +208,13 @@
       "title": "fix(rag): report PDFs with no indexable text",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/4131",
       "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/4131",
         "html_url": "https://github.com/agentscope-ai/agentscope/pull/4131",
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4131.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4131.patch",
-        "merged_at": null
+        "merged_at": "2026-11-19T09:13:29Z"
       }
     },
     {

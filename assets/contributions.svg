@@ -101,7 +101,7 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="80" y="1031" class="mono" font-size="16" font-weight="600">infiniflow/ragflow</text>
 <text x="688" y="1031" font-size="17" font-weight="600" text-anchor="end">0</text>
 <text x="806" y="1031" font-size="17" text-anchor="end" style="fill:#8061bb">1</text>
-<text x="960" y="1031" class="muted mono" text-anchor="end">☆ 94.4k</text>
+<text x="960" y="1031" class="muted mono" text-anchor="end">☆ 94.5k</text>
 <path d="M40 1058H960" class="line"/>
 <rect x="40" y="1081" width="24" height="24" rx="5" fill="#f2eef9"/>
 <text x="52" y="1098" font-size="14" font-weight="700" text-anchor="middle" style="fill:#8061bb">A</text>
@@ -139,5 +139,5 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="960" y="1366" class="muted mono" text-anchor="end">☆ 643</text>
 <path d="M40 1393H960" class="line"/>
 <text x="40" y="1431" class="muted">GitHub REST API · 每小时检查 · 变化时更新</text>
-<text x="960" y="1431" class="muted mono" text-anchor="end">2026-11-20 06:18 (UTC+8)</text>
+<text x="960" y="1431" class="muted mono" text-anchor="end">2026-11-20 11:34 (UTC+8)</text>
 </svg>

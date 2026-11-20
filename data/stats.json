@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-11-20T21:15:56.439960+08:00",
+  "updated_at": "2026-11-21T05:20:13.878172+08:00",
   "repos": {
     "agentscope-ai/agentscope": {
-      "stars": 36363,
+      "stars": 36379,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8596,
+      "stars": 8597,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "Tencent/WeKnora": {
-      "stars": 37880,
+      "stars": 37901,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "infiniflow/ragflow": {
-      "stars": 94474,
+      "stars": 94485,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23630,
+      "stars": 23639,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85543,
+      "stars": 85549,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10608,
+      "stars": 10619,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22279,
+      "stars": 22286,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3975,
+      "stars": 3973,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
@@ -42,11 +42,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16351,
+      "stars": 16354,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161564,
+      "stars": 161576,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17705,
+      "stars": 17729,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

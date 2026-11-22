@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-22T08:29:48.075952+08:00",
+  "updated_at": "2026-11-22T16:14:27.318200+08:00",
   "repos": {
+    "Tencent/WeKnora": {
+      "stars": 37972,
+      "url": "https://github.com/Tencent/WeKnora"
+    },
     "agentscope-ai/agentscope": {
-      "stars": 36438,
+      "stars": 36451,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8607,
+      "stars": 8609,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
-    "Tencent/WeKnora": {
-      "stars": 37954,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
     "infiniflow/ragflow": {
-      "stars": 94512,
+      "stars": 94522,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23648,
+      "stars": 23650,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85581,
+      "stars": 85591,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10639,
+      "stars": 10644,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22299,
+      "stars": 22308,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -42,11 +42,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16354,
+      "stars": 16355,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161628,
+      "stars": 161647,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17771,
+      "stars": 17779,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -144,6 +144,398 @@
         "html_url": "https://github.com/Tencent/WeKnora/pull/5476",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5476.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5476.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5753,
+      "title": "fix(catalog): read and generate model JSON as UTF-8",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5753",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5753",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5753",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5753.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5753.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5754,
+      "title": "fix(mcp): let an explicit port override the environment",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5754",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5754",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5754",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5754.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5754.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5755,
+      "title": "fix(build): resolve version metadata from the script checkout",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5755",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5755",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5755",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5755.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5755.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5756,
+      "title": "fix(mcp): check for the required server API during preflight",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5756",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5756",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5756",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5756.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5756.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5757,
+      "title": "fix(demo): use a configured reranker model and report load failures",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5757",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5757",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5757",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5757.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5757.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5758,
+      "title": "fix(mcp): request recursive knowledge folder listings",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5758",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5758",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5758",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5758.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5758.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5759,
+      "title": "fix(mcp): return the persisted answer on chat completion",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5759",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5759",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5759",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5759.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5759.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5760,
+      "title": "fix(client): report failures in knowledge move progress",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5760",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5760",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5760",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5760.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5760.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5761,
+      "title": "fix(client): preserve chunking strategy on knowledge base updates",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5761",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5761",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5761",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5761.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5761.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5762,
+      "title": "fix(client): retain the target of MCP and skill mentions",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5762",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5762",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5762",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5762.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5762.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5763,
+      "title": "fix(client): expose original document locations with search hits",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5763",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5763",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5763",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5763.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5763.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5764,
+      "title": "fix(client): retain token usage on completed turns and message reload",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5764",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5764",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5764",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5764.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5764.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5765,
+      "title": "feat(client): send the active page and selected text with assistant questions",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5765",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5765",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5765",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5765.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5765.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5766,
+      "title": "feat(client): pass parser overrides for individual knowledge imports",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5766",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5766",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5766",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5766.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5766.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5767,
+      "title": "feat(client): configure OAuth for an MCP service after discovery",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5767",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5767",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5767",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5767.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5767.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5768,
+      "title": "fix(client): send knowledge tags in the server wire format",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5768",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5768",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5768",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5768.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5768.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5769,
+      "title": "feat(mcp): follow wiki index cursors by page type",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5769",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5769",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5769",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5769.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5769.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5770,
+      "title": "fix(mcp): allow chat without retrieval for mention-only agents",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5770",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5770",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5770",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5770.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5770.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5775,
+      "title": "fix(cli): report remaining documents after single-page requests",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5775",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5775",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5775",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5775.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5775.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5776,
+      "title": "fix(cli): guide empty filename searches toward content search",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5776",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5776",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5776",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5776.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5776.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5777,
+      "title": "fix(cli): allow listing manual documents in draft status",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5777",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5777",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5777",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5777.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5777.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5778,
+      "title": "fix(cli): title new chat sessions from the opening question",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5778",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5778",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5778",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5778.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5778.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5779,
+      "title": "fix(client): preserve subsecond document filter boundaries",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5779",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5779",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5779",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5779.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5779.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5780,
+      "title": "feat(cli): distinguish and filter document folders in listings",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5780",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5780",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5780",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5780.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5780.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5781,
+      "title": "feat(cli): publish inline documents at creation time",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5781",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5781",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5781",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5781.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5781.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5782,
+      "title": "fix(cli): classify per-file errors in recursive uploads",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5782",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5782",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5782",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5782.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5782.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5783,
+      "title": "feat(cli): scope chunk retrieval to selected documents",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5783",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5783",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5783",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5783.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5783.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5784,
+      "title": "fix(cli): distinguish unavailable document chunk counts from zero",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5784",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5784",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5784",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5784.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5784.patch",
         "merged_at": null
       }
     },

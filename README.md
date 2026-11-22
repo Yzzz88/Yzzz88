@@ -7,7 +7,7 @@
 <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AYzzz88&amp;type=pullrequests">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contributions-mobile.svg">
-  <img src="assets/contributions.svg" alt="已合并 8 个 PR · 待合并 21 个 PR" width="100%">
+  <img src="assets/contributions.svg" alt="已合并 8 个 PR · 待合并 49 个 PR" width="100%">
 </picture>
 </a>
 
@@ -78,6 +78,174 @@ fix: preview resources with unsaved datasource credentials
 #### 待合并 · [WeKnora #5476](https://github.com/Tencent/WeKnora/pull/5476)
 
 fix(docreader): extract designated EPUB cover images
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5753](https://github.com/Tencent/WeKnora/pull/5753)
+
+fix(catalog): read and generate model JSON as UTF-8
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5754](https://github.com/Tencent/WeKnora/pull/5754)
+
+fix(mcp): let an explicit port override the environment
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5755](https://github.com/Tencent/WeKnora/pull/5755)
+
+fix(build): resolve version metadata from the script checkout
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5756](https://github.com/Tencent/WeKnora/pull/5756)
+
+fix(mcp): check for the required server API during preflight
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5757](https://github.com/Tencent/WeKnora/pull/5757)
+
+fix(demo): use a configured reranker model and report load failures
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5758](https://github.com/Tencent/WeKnora/pull/5758)
+
+fix(mcp): request recursive knowledge folder listings
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5759](https://github.com/Tencent/WeKnora/pull/5759)
+
+fix(mcp): return the persisted answer on chat completion
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5760](https://github.com/Tencent/WeKnora/pull/5760)
+
+fix(client): report failures in knowledge move progress
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5761](https://github.com/Tencent/WeKnora/pull/5761)
+
+fix(client): preserve chunking strategy on knowledge base updates
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5762](https://github.com/Tencent/WeKnora/pull/5762)
+
+fix(client): retain the target of MCP and skill mentions
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5763](https://github.com/Tencent/WeKnora/pull/5763)
+
+fix(client): expose original document locations with search hits
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5764](https://github.com/Tencent/WeKnora/pull/5764)
+
+fix(client): retain token usage on completed turns and message reload
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5765](https://github.com/Tencent/WeKnora/pull/5765)
+
+feat(client): send the active page and selected text with assistant questions
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5766](https://github.com/Tencent/WeKnora/pull/5766)
+
+feat(client): pass parser overrides for individual knowledge imports
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5767](https://github.com/Tencent/WeKnora/pull/5767)
+
+feat(client): configure OAuth for an MCP service after discovery
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5768](https://github.com/Tencent/WeKnora/pull/5768)
+
+fix(client): send knowledge tags in the server wire format
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5769](https://github.com/Tencent/WeKnora/pull/5769)
+
+feat(mcp): follow wiki index cursors by page type
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5770](https://github.com/Tencent/WeKnora/pull/5770)
+
+fix(mcp): allow chat without retrieval for mention-only agents
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5775](https://github.com/Tencent/WeKnora/pull/5775)
+
+fix(cli): report remaining documents after single-page requests
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5776](https://github.com/Tencent/WeKnora/pull/5776)
+
+fix(cli): guide empty filename searches toward content search
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5777](https://github.com/Tencent/WeKnora/pull/5777)
+
+fix(cli): allow listing manual documents in draft status
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5778](https://github.com/Tencent/WeKnora/pull/5778)
+
+fix(cli): title new chat sessions from the opening question
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5779](https://github.com/Tencent/WeKnora/pull/5779)
+
+fix(client): preserve subsecond document filter boundaries
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5780](https://github.com/Tencent/WeKnora/pull/5780)
+
+feat(cli): distinguish and filter document folders in listings
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5781](https://github.com/Tencent/WeKnora/pull/5781)
+
+feat(cli): publish inline documents at creation time
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5782](https://github.com/Tencent/WeKnora/pull/5782)
+
+fix(cli): classify per-file errors in recursive uploads
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5783](https://github.com/Tencent/WeKnora/pull/5783)
+
+feat(cli): scope chunk retrieval to selected documents
+
+仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+#### 待合并 · [WeKnora #5784](https://github.com/Tencent/WeKnora/pull/5784)
+
+fix(cli): distinguish unavailable document chunk counts from zero
 
 仓库：[Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 

@@ -1,44 +1,52 @@
 {
-  "updated_at": "2026-11-23T11:50:04.059820+08:00",
+  "updated_at": "2026-11-24T04:29:21.530020+08:00",
   "repos": {
+    "NVIDIA/auto-ontology": {
+      "stars": 14629,
+      "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    "Tencent/LoopForge": {
+      "stars": 5860,
+      "url": "https://github.com/Tencent/LoopForge"
+    },
     "Tencent/WeKnora": {
-      "stars": 38034,
+      "stars": 38081,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36499,
+      "stars": 36555,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8612,
+      "stars": 8617,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94554,
+      "stars": 94595,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23667,
+      "stars": 23678,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85629,
+      "stars": 85695,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10662,
+      "stars": 10684,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "google/adk-python": {
-      "stars": 22318,
+      "stars": 22328,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3976,
+      "stars": 3977,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12216,
+      "stars": 12218,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -46,7 +54,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161704,
+      "stars": 161754,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -54,15 +62,225 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17810,
+      "stars": 17836,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4430,
+      "stars": 4431,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
   "pulls": [
+    {
+      "number": 601,
+      "title": "Show complete saved SQL definitions during retrieval",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/601",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/601",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/601",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/601.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/601.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 603,
+      "title": "Keep SQLite user tables that share the start of the reserved prefix",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/603",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/603",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/603",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/603.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/603.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 605,
+      "title": "Close SQLite worker connections during connector teardown",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/605",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/605",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/605",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/605.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/605.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 607,
+      "title": "Quote SQLite table names in schema introspection",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/607",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/607",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/607",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/607.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/607.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 609,
+      "title": "Skip vector hits with non-object JSON metadata",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/609",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/609",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/609",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/609.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/609.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 611,
+      "title": "Accept the query-history window on the DuckDB connector",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/611",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/611",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/611",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/611.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/611.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 612,
+      "title": "Scope DuckDB relation discovery to the bound catalog",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/612",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/612",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/612",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/612.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/612.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 614,
+      "title": "Require the stored width when inferring compact date formats",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/614",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/614",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/614",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/614.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/614.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 616,
+      "title": "Decode stored sample values before building column embeddings",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/616",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/616",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/616",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/616.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/616.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 618,
+      "title": "Preserve column positions above 32767 during catalog normalization",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/618",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/618",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/618",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/618.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/618.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 620,
+      "title": "Keep large integer identifiers distinct in FK containment checks",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/620",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/620",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/620",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/620.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/620.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 622,
+      "title": "Avoid storing JSON string delimiters inside decimal sample values",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/622",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/622",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/622",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/622.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/622.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 624,
+      "title": "Preserve the port in pasted IPv6 ClickHouse endpoints",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/624",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/624",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/624",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/624.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/624.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 626,
+      "title": "Disambiguate case-distinct catalog tables when embedding columns",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/626",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/626",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/626",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/626.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/626.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 628,
+      "title": "Preserve literal percent escapes in structured connection options",
+      "html_url": "https://github.com/NVIDIA/auto-ontology/pull/628",
+      "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/628",
+        "html_url": "https://github.com/NVIDIA/auto-ontology/pull/628",
+        "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/628.diff",
+        "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/628.patch",
+        "merged_at": null
+      }
+    },
     {
       "number": 591,
       "title": "fix: reject inherited names as press keys",
@@ -74,6 +292,216 @@
         "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",
         "diff_url": "https://github.com/Tencent/BrowserSkill/pull/591.diff",
         "patch_url": "https://github.com/Tencent/BrowserSkill/pull/591.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1234,
+      "title": "fix(local): count only tasks in the execution plan task section",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1234",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1234",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1234",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1234.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1234.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1235,
+      "title": "fix(local): normalize Portable workflow paths in CLI output",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1235",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1235",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1235",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1235.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1235.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1236,
+      "title": "fix(hermes): allocate distinct task directories for colliding requests",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1236",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1236",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1236",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1236.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1236.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1237,
+      "title": "fix(local): honor skipped knowledge stages in artifact validation",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1237",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1237",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1237",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1237.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1237.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1238,
+      "title": "fix(local): reject invalid workflow identity before reserving the task slug",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1238",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1238",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1238",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1238.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1238.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1239,
+      "title": "fix(mcp): preserve numeric IDs across stdio and structured results",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1239",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1239",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1239",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1239.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1239.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1240,
+      "title": "fix(domain): isolate page elements in cloned assistant references",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1240",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1240",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1240",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1240.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1240.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1241,
+      "title": "fix(mcp): validate values of typed OpenAPI map properties",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1241",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1241",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1241",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1241.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1241.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1242,
+      "title": "fix(mcp): decode stringified issue patches before merging them",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1242",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1242",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1242",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1242.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1242.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1243,
+      "title": "fix(local): quote the state path in resume commands",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1243",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1243",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1243",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1243.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1243.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1244,
+      "title": "fix(local): pass discovered Copilot project instructions to stage agents",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1244",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1244",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1244",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1244.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1244.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1245,
+      "title": "fix(local): preserve artifact baselines when retrying stage preparation",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1245",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1245",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1245",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1245.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1245.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1246,
+      "title": "fix(mcp): report incomplete remote responses at the size limit",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1246",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1246",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1246",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1246.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1246.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1247,
+      "title": "fix(chat): carry the selected SOP into new requirement conversations",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1247",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1247",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1247",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1247.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1247.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1248,
+      "title": "fix(web): identify role references by workflow in the catalog and picker",
+      "html_url": "https://github.com/Tencent/LoopForge/pull/1248",
+      "repository_url": "https://api.github.com/repos/Tencent/LoopForge",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/LoopForge/pulls/1248",
+        "html_url": "https://github.com/Tencent/LoopForge/pull/1248",
+        "diff_url": "https://github.com/Tencent/LoopForge/pull/1248.diff",
+        "patch_url": "https://github.com/Tencent/LoopForge/pull/1248.patch",
         "merged_at": null
       }
     },
@@ -536,6 +964,146 @@
         "html_url": "https://github.com/Tencent/WeKnora/pull/5784",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5784.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5784.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5847,
+      "title": "fix(cli): keep chronological server order in session search",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5847",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5847",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5847",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5847.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5847.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5848,
+      "title": "feat(cli): inspect summary and image chunks by type",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5848",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5848",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5848",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5848.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5848.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5849,
+      "title": "fix(cli): preserve numeric precision in raw API fields",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5849",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5849",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5849",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5849.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5849.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5850,
+      "title": "fix(cli): preserve multi-record responses in raw API envelopes",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5850",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5850",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5850",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5850.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5850.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5851,
+      "title": "fix(cli): retain embedding options when setting dimension",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5851",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5851",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5851",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5851.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5851.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5852,
+      "title": "feat(cli): select a chat model for a single RAG question",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5852",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5852",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5852",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5852.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5852.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5853,
+      "title": "feat(cli): list assistant conversation history",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5853",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5853",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5853",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5853.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5853.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5854,
+      "title": "fix(cli): return the existing document ID on duplicate ingestion",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5854",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5854",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5854",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5854.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5854.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5855,
+      "title": "fix(cli): align message history limits with the server",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5855",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5855",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5855",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5855.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5855.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5856,
+      "title": "fix(cli): disclose unverified knowledge base configuration after a saved write",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5856",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5856",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5856",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5856.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5856.patch",
         "merged_at": null
       }
     },

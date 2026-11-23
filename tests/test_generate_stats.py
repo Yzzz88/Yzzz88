@@ -67,7 +67,8 @@ class RefreshTests(unittest.TestCase):
         self.assertTrue(self.refresh())
         readme = (self.root / "README.md").read_text(encoding="utf-8")
         self.assertIn("已合并 1 个 PR · 待合并 1 个 PR", readme)
-        self.assertIn(pull["html_url"], readme)
+        self.assertNotIn(pull["html_url"], readme)
+        self.assertIn("查看全部公开 PR", readme)
 
     def test_first_run_creates_snapshot(self):
         (self.root / "data/stats.json").unlink()

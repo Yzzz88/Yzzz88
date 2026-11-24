@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-24T12:56:30.755635+08:00",
+  "updated_at": "2026-11-24T23:35:22.003099+08:00",
   "repos": {
     "Tencent/BrowserSkill": {
-      "stars": 10687,
+      "stars": 10701,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "Tencent/WeKnora": {
-      "stars": 38095,
+      "stars": 38135,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 14691,
+      "stars": 14760,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 5897,
+      "stars": 5973,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36572,
+      "stars": 36635,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -26,19 +26,19 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94616,
+      "stars": 94644,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23682,
+      "stars": 23689,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85719,
+      "stars": 85744,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22334,
+      "stars": 22341,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -54,19 +54,19 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161785,
+      "stars": 161832,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
-      "stars": 644,
+      "stars": 643,
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17852,
+      "stars": 17873,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4431,
+      "stars": 4432,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -216,7 +216,7 @@
       "title": "Keep large integer identifiers distinct in FK containment checks",
       "html_url": "https://github.com/NVIDIA/auto-ontology/pull/620",
       "repository_url": "https://api.github.com/repos/NVIDIA/auto-ontology",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/NVIDIA/auto-ontology/pulls/620",
         "html_url": "https://github.com/NVIDIA/auto-ontology/pull/620",
@@ -300,13 +300,13 @@
       "title": "fix(evals): expand report wildcards when the shell passes them literally",
       "html_url": "https://github.com/Tencent/BrowserSkill/pull/814",
       "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/814",
         "html_url": "https://github.com/Tencent/BrowserSkill/pull/814",
         "diff_url": "https://github.com/Tencent/BrowserSkill/pull/814.diff",
         "patch_url": "https://github.com/Tencent/BrowserSkill/pull/814.patch",
-        "merged_at": null
+        "merged_at": "2026-11-24T05:32:01Z"
       }
     },
     {

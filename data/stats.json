@@ -1,20 +1,24 @@
 {
-  "updated_at": "2026-11-24T04:29:21.530020+08:00",
+  "updated_at": "2026-11-24T12:56:30.755635+08:00",
   "repos": {
+    "Tencent/BrowserSkill": {
+      "stars": 10687,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    "Tencent/WeKnora": {
+      "stars": 38095,
+      "url": "https://github.com/Tencent/WeKnora"
+    },
     "NVIDIA/auto-ontology": {
-      "stars": 14629,
+      "stars": 14691,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 5860,
+      "stars": 5897,
       "url": "https://github.com/Tencent/LoopForge"
     },
-    "Tencent/WeKnora": {
-      "stars": 38081,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
     "agentscope-ai/agentscope": {
-      "stars": 36555,
+      "stars": 36572,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -22,23 +26,19 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94595,
+      "stars": 94616,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23678,
+      "stars": 23682,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85695,
+      "stars": 85719,
       "url": "https://github.com/bytedance/deer-flow"
     },
-    "Tencent/BrowserSkill": {
-      "stars": 10684,
-      "url": "https://github.com/Tencent/BrowserSkill"
-    },
     "google/adk-python": {
-      "stars": 22328,
+      "stars": 22334,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -46,7 +46,7 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12218,
+      "stars": 12217,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161754,
+      "stars": 161785,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17836,
+      "stars": 17852,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -292,6 +292,34 @@
         "html_url": "https://github.com/Tencent/BrowserSkill/pull/591",
         "diff_url": "https://github.com/Tencent/BrowserSkill/pull/591.diff",
         "patch_url": "https://github.com/Tencent/BrowserSkill/pull/591.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 814,
+      "title": "fix(evals): expand report wildcards when the shell passes them literally",
+      "html_url": "https://github.com/Tencent/BrowserSkill/pull/814",
+      "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/814",
+        "html_url": "https://github.com/Tencent/BrowserSkill/pull/814",
+        "diff_url": "https://github.com/Tencent/BrowserSkill/pull/814.diff",
+        "patch_url": "https://github.com/Tencent/BrowserSkill/pull/814.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 815,
+      "title": "fix(evals): allow startup extension loading for dynamic reading",
+      "html_url": "https://github.com/Tencent/BrowserSkill/pull/815",
+      "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/815",
+        "html_url": "https://github.com/Tencent/BrowserSkill/pull/815",
+        "diff_url": "https://github.com/Tencent/BrowserSkill/pull/815.diff",
+        "patch_url": "https://github.com/Tencent/BrowserSkill/pull/815.patch",
         "merged_at": null
       }
     },
@@ -1104,6 +1132,146 @@
         "html_url": "https://github.com/Tencent/WeKnora/pull/5856",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5856.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5856.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5896,
+      "title": "fix(cli): expand native Windows home paths for skill installation",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5896",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5896",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5896",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5896.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5896.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5897,
+      "title": "fix(cli): truncate table previews at grapheme boundaries",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5897",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5897",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5897",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5897.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5897.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5898,
+      "title": "fix(cli): find remote registrations by provider in model list",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5898",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5898",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5898",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5898.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5898.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5899,
+      "title": "fix(cli): validate recursive upload flags during dry runs",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5899",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5899",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5899",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5899.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5899.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5900,
+      "title": "fix(cli): reject nonpositive document polling durations",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5900",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5900",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5900",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5900.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5900.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5901,
+      "title": "fix(cli): display FAQ entry counts when listing knowledge bases",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5901",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5901",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5901",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5901.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5901.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5902,
+      "title": "fix(cli): collect every page of nested tag list responses",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5902",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5902",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5902",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5902.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5902.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5903,
+      "title": "fix(cli): preserve commas in individual upload metadata values",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5903",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5903",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5903",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5903.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5903.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5904,
+      "title": "fix(cli): report unusable files during skill installation",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5904",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5904",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5904",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5904.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5904.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5905,
+      "title": "fix(cli): identify prematurely closed downloads as network errors",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5905",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5905",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5905",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5905.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5905.patch",
         "merged_at": null
       }
     },

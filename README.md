@@ -12,7 +12,7 @@
 
 ## 公开贡献统计
 
-已合并 9 个 PR · 待合并 99 个 PR · 涉及 17 个上游仓库
+已合并 10 个 PR · 待合并 108 个 PR · 涉及 17 个上游仓库
 
 [查看全部公开 PR](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3AYzzz88+-user%3AYzzz88)
 

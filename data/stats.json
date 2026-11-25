@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-25T08:05:59.547192+08:00",
+  "updated_at": "2026-11-25T16:21:40.191628+08:00",
   "repos": {
-    "Tencent/BrowserSkill": {
-      "stars": 10701,
-      "url": "https://github.com/Tencent/BrowserSkill"
-    },
     "Tencent/WeKnora": {
-      "stars": 38139,
+      "stars": 38189,
       "url": "https://github.com/Tencent/WeKnora"
     },
+    "Tencent/BrowserSkill": {
+      "stars": 10707,
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
     "NVIDIA/auto-ontology": {
-      "stars": 14797,
+      "stars": 14854,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 5989,
+      "stars": 6051,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36652,
+      "stars": 36694,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8617,
+      "stars": 8621,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94657,
+      "stars": 94678,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23695,
+      "stars": 23700,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85758,
+      "stars": 85779,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22341,
+      "stars": 22344,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3977,
+      "stars": 3978,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12219,
+      "stars": 12223,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16357,
+      "stars": 16358,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161845,
+      "stars": 161865,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17885,
+      "stars": 17900,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -314,13 +314,13 @@
       "title": "fix(evals): allow startup extension loading for dynamic reading",
       "html_url": "https://github.com/Tencent/BrowserSkill/pull/815",
       "repository_url": "https://api.github.com/repos/Tencent/BrowserSkill",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/BrowserSkill/pulls/815",
         "html_url": "https://github.com/Tencent/BrowserSkill/pull/815",
         "diff_url": "https://github.com/Tencent/BrowserSkill/pull/815.diff",
         "patch_url": "https://github.com/Tencent/BrowserSkill/pull/815.patch",
-        "merged_at": null
+        "merged_at": "2026-11-25T07:10:36Z"
       }
     },
     {
@@ -1272,6 +1272,146 @@
         "html_url": "https://github.com/Tencent/WeKnora/pull/5905",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5905.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5905.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5940,
+      "title": "feat(cli): cancel document parsing by ID",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5940",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5940",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5940",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5940.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5940.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5941,
+      "title": "fix(wiki): ignore CRLF normalization in revision comparisons",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5941",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5941",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5941",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5941.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5941.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5942,
+      "title": "fix(wiki): retain bracketed page titles in tool references",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5942",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5942",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5942",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5942.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5942.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5943,
+      "title": "fix(chat): retain user-authored citation examples in Markdown exports",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5943",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5943",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5943",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5943.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5943.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5944,
+      "title": "fix(preview): preserve literal table examples inside Markdown fences",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5944",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5944",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5944",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5944.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5944.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5945,
+      "title": "fix(preview): recognize extensionless Dockerfiles and Makefiles",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5945",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5945",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5945",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5945.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5945.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5946,
+      "title": "fix(artifacts): include scanned and modern images in the image filter",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5946",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5946",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5946",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5946.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5946.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5947,
+      "title": "fix(automation): keep one-shot schedules editable with unknown timezones",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5947",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5947",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5947",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5947.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5947.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5948,
+      "title": "fix(chat): report stalled history pagination during Markdown export",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5948",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5948",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5948",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5948.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5948.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5950,
+      "title": "fix(cli): show document classification in creation previews",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5950",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5950",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/5950",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/5950.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/5950.patch",
         "merged_at": null
       }
     },

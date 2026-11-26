@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-26T18:37:58.718986+08:00",
+  "updated_at": "2026-11-27T03:49:51.330475+08:00",
   "repos": {
     "Tencent/WeKnora": {
-      "stars": 38271,
+      "stars": 38289,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10748,
+      "stars": 10758,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 14981,
+      "stars": 15013,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6151,
+      "stars": 5991,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36752,
+      "stars": 36764,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8622,
+      "stars": 8623,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94753,
+      "stars": 94767,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23719,
+      "stars": 23722,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85841,
+      "stars": 85850,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22360,
+      "stars": 22364,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161938,
+      "stars": 161955,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17943,
+      "stars": 17948,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -1413,6 +1413,48 @@
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5950.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5950.patch",
         "merged_at": "2026-11-25T15:10:09Z"
+      }
+    },
+    {
+      "number": 6070,
+      "title": "fix(confluence): keep download links without attachment macro UI",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6070",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6070",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6070",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6070.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6070.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6071,
+      "title": "fix(knowledge): display original URLs for synchronized files",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6071",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6071",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6071",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6071.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6071.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6072,
+      "title": "docs(confluence): explain when incremental sync skips page bodies",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6072",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6072",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6072",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6072.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6072.patch",
+        "merged_at": null
       }
     },
     {

@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-26T02:43:19.553711+08:00",
+  "updated_at": "2026-11-26T09:57:34.002421+08:00",
   "repos": {
     "Tencent/WeKnora": {
-      "stars": 38214,
+      "stars": 38226,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10719,
+      "stars": 10724,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 14919,
+      "stars": 14938,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6088,
+      "stars": 6097,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36710,
+      "stars": 36718,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -26,27 +26,27 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94703,
+      "stars": 94714,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23708,
+      "stars": 23713,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85798,
+      "stars": 85813,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22352,
+      "stars": 22358,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3978,
+      "stars": 3979,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12223,
+      "stars": 12224,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161894,
+      "stars": 161915,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17919,
+      "stars": 17928,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -1126,13 +1126,13 @@
       "title": "fix(cli): disclose unverified knowledge base configuration after a saved write",
       "html_url": "https://github.com/Tencent/WeKnora/pull/5856",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5856",
         "html_url": "https://github.com/Tencent/WeKnora/pull/5856",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5856.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5856.patch",
-        "merged_at": null
+        "merged_at": "2026-11-25T18:51:50Z"
       }
     },
     {
@@ -1210,13 +1210,13 @@
       "title": "fix(cli): display FAQ entry counts when listing knowledge bases",
       "html_url": "https://github.com/Tencent/WeKnora/pull/5901",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/5901",
         "html_url": "https://github.com/Tencent/WeKnora/pull/5901",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/5901.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/5901.patch",
-        "merged_at": null
+        "merged_at": "2026-11-25T18:56:57Z"
       }
     },
     {

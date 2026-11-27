@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.bclover.jp/assets/img/character/full/main/asta.png" width="180" alt="黑色五叶草 阿斯塔" />
+  <img src="assets/asta-demon-battle.png" width="100%" alt="阿斯塔恶魔形态高燃战斗画面" />
 </p>
 
 <p align="center">

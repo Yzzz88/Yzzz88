@@ -193,7 +193,7 @@ def render(data):
     (assets / "contributions-mobile.svg").write_text("\n".join(mobile), encoding="utf-8")
     query = f"https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3A{USER}+-user%3A{USER}"
     lines = [
-        '<p align="center"><img src="https://data.onnada.com/character/202302/2042390482_0673b400_a_full.png" width="180" alt="黑色五叶草 阿斯塔"></p>', "",
+        '<p align="center"><img src="https://www.bclover.jp/assets/img/character/full/main/asta.png" width="180" alt="黑色五叶草 阿斯塔"></p>', "",
         '<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Nunito&amp;weight=600&amp;size=22&amp;duration=3600&amp;pause=1400&amp;color=3B91C8&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=52&amp;lines=Building+reliable+AI+Agents+with+Memory%2C+Eval+and+Trace." alt="Building reliable AI Agents with Memory, Eval and Trace."></p>', "",
         '<p align="center"><img src="https://img.shields.io/badge/Class%20of-2029-2563eb?style=for-the-badge"><img src="https://img.shields.io/badge/Focus-AI%20Agent-0f766e?style=for-the-badge"><img src="https://img.shields.io/badge/Focus-Agent%20Memory%20%26%20Eval-7c3aed?style=for-the-badge"></p>', "",
         "## 👋 关于我", "",

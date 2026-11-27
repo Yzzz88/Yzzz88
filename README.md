@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://data.onnada.com/character/202302/2042390482_0673b400_a_full.png" width="180" alt="黑色五叶草 阿斯塔" />
+  <img src="https://www.bclover.jp/assets/img/character/full/main/asta.png" width="180" alt="黑色五叶草 阿斯塔" />
 </p>
 
 <p align="center">

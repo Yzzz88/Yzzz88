@@ -1,24 +1,32 @@
 {
-  "updated_at": "2026-11-27T19:18:34.274651+08:00",
+  "updated_at": "2026-11-28T04:03:49.586776+08:00",
   "repos": {
+    "PaddlePaddle/PaddleOCR": {
+      "stars": 93389,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    "QwenLM/Qwen-Agent": {
+      "stars": 17293,
+      "url": "https://github.com/QwenLM/Qwen-Agent"
+    },
     "Tencent/WeKnora": {
-      "stars": 38348,
+      "stars": 38370,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10768,
+      "stars": 10774,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 15238,
+      "stars": 15420,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6071,
+      "stars": 6083,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36803,
+      "stars": 36825,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -26,35 +34,35 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94820,
+      "stars": 94835,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23729,
+      "stars": 23732,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85868,
+      "stars": 85877,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22367,
+      "stars": 22379,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3981,
+      "stars": 3982,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12227,
+      "stars": 12226,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16358,
+      "stars": 16360,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 162000,
+      "stars": 162024,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +70,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17975,
+      "stars": 17982,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -278,6 +286,62 @@
         "html_url": "https://github.com/NVIDIA/auto-ontology/pull/628",
         "diff_url": "https://github.com/NVIDIA/auto-ontology/pull/628.diff",
         "patch_url": "https://github.com/NVIDIA/auto-ontology/pull/628.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 18498,
+      "title": "docs: clarify PP-StructureV3 preprocessing defaults",
+      "html_url": "https://github.com/PaddlePaddle/PaddleOCR/pull/18498",
+      "repository_url": "https://api.github.com/repos/PaddlePaddle/PaddleOCR",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/PaddlePaddle/PaddleOCR/pulls/18498",
+        "html_url": "https://github.com/PaddlePaddle/PaddleOCR/pull/18498",
+        "diff_url": "https://github.com/PaddlePaddle/PaddleOCR/pull/18498.diff",
+        "patch_url": "https://github.com/PaddlePaddle/PaddleOCR/pull/18498.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1109,
+      "title": "fix(parser): preserve grouped PowerPoint content",
+      "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1109",
+      "repository_url": "https://api.github.com/repos/QwenLM/Qwen-Agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/QwenLM/Qwen-Agent/pulls/1109",
+        "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1109",
+        "diff_url": "https://github.com/QwenLM/Qwen-Agent/pull/1109.diff",
+        "patch_url": "https://github.com/QwenLM/Qwen-Agent/pull/1109.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1110,
+      "title": "fix(parser): preserve PowerPoint soft line breaks",
+      "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1110",
+      "repository_url": "https://api.github.com/repos/QwenLM/Qwen-Agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/QwenLM/Qwen-Agent/pulls/1110",
+        "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1110",
+        "diff_url": "https://github.com/QwenLM/Qwen-Agent/pull/1110.diff",
+        "patch_url": "https://github.com/QwenLM/Qwen-Agent/pull/1110.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1111,
+      "title": "fix(parser): close PDF resources after extraction",
+      "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111",
+      "repository_url": "https://api.github.com/repos/QwenLM/Qwen-Agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/QwenLM/Qwen-Agent/pulls/1111",
+        "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111",
+        "diff_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111.diff",
+        "patch_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111.patch",
         "merged_at": null
       }
     },
@@ -1455,6 +1519,104 @@
         "diff_url": "https://github.com/Tencent/WeKnora/pull/6072.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/6072.patch",
         "merged_at": "2026-11-27T04:05:22Z"
+      }
+    },
+    {
+      "number": 6149,
+      "title": "fix(search): focus matching query terms in original document previews",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6149",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6149",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6149",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6149.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6149.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6151,
+      "title": "fix(cli): include URL import options in dry-run plans",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6151",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6151",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6151",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6151.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6151.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6152,
+      "title": "fix(cli): reject upload globs that would be ignored",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6152",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6152",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6152",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6152.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6152.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6153,
+      "title": "fix(cli): require explicit stdout mode for document downloads",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6153",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6153",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6153",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6153.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6153.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6154,
+      "title": "fix(automation): validate numeric schedule presets before preview",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6154",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6154",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6154",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6154.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6154.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6155,
+      "title": "fix(chat): block invalid numeric values in agent questions",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6155",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6155",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6155",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6155.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6155.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 6156,
+      "title": "fix(preview): recognize Ogg audio artifacts from their headers",
+      "html_url": "https://github.com/Tencent/WeKnora/pull/6156",
+      "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6156",
+        "html_url": "https://github.com/Tencent/WeKnora/pull/6156",
+        "diff_url": "https://github.com/Tencent/WeKnora/pull/6156.diff",
+        "patch_url": "https://github.com/Tencent/WeKnora/pull/6156.patch",
+        "merged_at": null
       }
     },
     {

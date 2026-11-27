@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="assets/asta-demon-battle.png" width="100%" alt="阿斯塔恶魔形态高燃战斗画面" />
-</p>
+<p align="center"><img src="assets/asta-demon-battle.png" width="100%" alt="阿斯塔恶魔形态高燃战斗画面"></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&amp;weight=600&amp;size=22&amp;duration=3600&amp;pause=1400&amp;color=3B91C8&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=52&amp;lines=Building+reliable+AI+Agents+with+Memory%2C+Eval+and+Trace." alt="Building reliable AI Agents with Memory, Eval and Trace." />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Nunito&amp;weight=600&amp;size=22&amp;duration=3600&amp;pause=1400&amp;color=3B91C8&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=52&amp;lines=Building+reliable+AI+Agents+with+Memory%2C+Eval+and+Trace." alt="Building reliable AI Agents with Memory, Eval and Trace."></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Class%20of-2029-2563eb?style=for-the-badge" alt="2029 届本科生" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent-0f766e?style=for-the-badge" alt="AI Agent" />
-  <img src="https://img.shields.io/badge/Focus-Agent%20Memory%20%26%20Eval-7c3aed?style=for-the-badge" alt="Agent Memory 与评测" />
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Class%20of-2029-2563eb?style=for-the-badge"><img src="https://img.shields.io/badge/Focus-AI%20Agent-0f766e?style=for-the-badge"><img src="https://img.shields.io/badge/Focus-Agent%20Memory%20%26%20Eval-7c3aed?style=for-the-badge"></p>
 
 ## 👋 关于我
 
@@ -18,32 +10,13 @@
 
 我关注 **Agent Memory、评测与自进化 Agent**：记忆如何可靠写入、召回和更新，失败如何通过 Trace / Eval 复现，反馈如何证明下一轮行动确实更好。我在个人项目和已合并的上游 PR 中实践记忆召回、离线评测与执行可靠性，也持续跟进 RSI 的研究进展。
 
-[![已合并 PR：61](https://img.shields.io/badge/MERGED%20PRs-61-2ea44f?style=for-the-badge&labelColor=25364a&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3AYzzz88+-user%3AYzzz88)
-
-## 🛠️ 技术与创作工具
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,git,github&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Git, GitHub" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,git,github&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Git, GitHub"></p>
 
 ## 🔧 上游贡献 · 已合并
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      🧠 <strong>记忆与知识检索</strong><br>
-      实践知识召回、来源定位与迁移状态反馈。<br>
-      <a href="https://github.com/Tencent/WeKnora/pull/5760">WeKnora #5760</a> · <a href="https://github.com/Tencent/WeKnora/pull/5763">#5763</a> · <a href="https://github.com/agentscope-ai/agentscope/pull/4130">AgentScope #4130</a>
-    </td>
-    <td width="50%" valign="top">
-      🛡️ <strong>文档处理与执行可靠性</strong><br>
-      保留 Word 矢量图与 PPTX 文本索引，修复沙箱路径边界。<br>
-      <a href="https://github.com/Tencent/WeKnora/pull/5156">WeKnora #5156</a> · <a href="https://github.com/opensandbox-group/OpenSandbox/pull/2474">OpenSandbox #2474</a>
-    </td>
-  </tr>
-</table>
+<table width="100%"><tr><td width="50%" valign="top">🧠 <strong>记忆与知识检索</strong><br>实践知识召回、来源定位与迁移状态反馈。<br><a href="https://github.com/Tencent/WeKnora/pull/5760">WeKnora #5760</a> · <a href="https://github.com/Tencent/WeKnora/pull/5763">#5763</a> · <a href="https://github.com/agentscope-ai/agentscope/pull/4130">AgentScope #4130</a></td><td width="50%" valign="top">🛡️ <strong>文档处理与执行可靠性</strong><br>保留 Word 矢量图与 PPTX 文本索引，修复沙箱路径边界。<br><a href="https://github.com/Tencent/WeKnora/pull/5156">WeKnora #5156</a> · <a href="https://github.com/opensandbox-group/OpenSandbox/pull/2474">OpenSandbox #2474</a></td></tr></table>
 
-### WeKnora｜贡献者排名第 3
+<h3>WeKnora｜贡献者排名第 3</h3>
 
 多个已合并 PR 覆盖 CLI、SDK 与产品功能，持续参与上游建设。
 
@@ -74,7 +47,7 @@
 
 ## 📊 公开贡献统计
 
-已合并 61 个 PR · 待合并 59 个 PR · 涉及 17 个上游仓库
+已合并 64 个 PR · 待合并 56 个 PR · 涉及 17 个上游仓库
 
 [查看全部公开 PR](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3AYzzz88+-user%3AYzzz88)
 

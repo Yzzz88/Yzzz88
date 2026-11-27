@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-27T10:28:27.767080+08:00",
+  "updated_at": "2026-11-27T19:18:34.274651+08:00",
   "repos": {
     "Tencent/WeKnora": {
-      "stars": 38306,
+      "stars": 38348,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10759,
+      "stars": 10768,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 15080,
+      "stars": 15238,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6010,
+      "stars": 6071,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36781,
+      "stars": 36803,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8623,
+      "stars": 8624,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94785,
+      "stars": 94820,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23725,
+      "stars": 23729,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85859,
+      "stars": 85868,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22365,
+      "stars": 22367,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
-      "stars": 3980,
+      "stars": 3981,
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12226,
+      "stars": 12227,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16357,
+      "stars": 16358,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161965,
+      "stars": 162000,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17958,
+      "stars": 17975,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
@@ -1434,13 +1434,13 @@
       "title": "fix(knowledge): display original URLs for synchronized files",
       "html_url": "https://github.com/Tencent/WeKnora/pull/6071",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6071",
         "html_url": "https://github.com/Tencent/WeKnora/pull/6071",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/6071.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/6071.patch",
-        "merged_at": null
+        "merged_at": "2026-11-27T04:13:36Z"
       }
     },
     {
@@ -1448,13 +1448,13 @@
       "title": "docs(confluence): explain when incremental sync skips page bodies",
       "html_url": "https://github.com/Tencent/WeKnora/pull/6072",
       "repository_url": "https://api.github.com/repos/Tencent/WeKnora",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/Tencent/WeKnora/pulls/6072",
         "html_url": "https://github.com/Tencent/WeKnora/pull/6072",
         "diff_url": "https://github.com/Tencent/WeKnora/pull/6072.diff",
         "patch_url": "https://github.com/Tencent/WeKnora/pull/6072.patch",
-        "merged_at": null
+        "merged_at": "2026-11-27T04:05:22Z"
       }
     },
     {
@@ -1462,13 +1462,13 @@
       "title": "fix(sop): settle exhausted attempts before emitting step endings",
       "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
       "repository_url": "https://api.github.com/repos/agentscope-ai/agentscope",
-      "state": "open",
+      "state": "closed",
       "pull_request": {
         "url": "https://api.github.com/repos/agentscope-ai/agentscope/pulls/3593",
         "html_url": "https://github.com/agentscope-ai/agentscope/pull/3593",
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/3593.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/3593.patch",
-        "merged_at": null
+        "merged_at": "2026-11-27T09:48:24Z"
       }
     },
     {

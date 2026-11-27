@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/asta-demon-battle.png" width="100%" alt="阿斯塔恶魔形态高燃战斗画面" />
+  <img src="assets/asta-demon-battle.gif" width="100%" alt="阿斯塔恶魔形态高燃战斗画面" />
 </p>
 
 <p align="center">

@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-27T03:49:51.330475+08:00",
+  "updated_at": "2026-11-27T10:28:27.767080+08:00",
   "repos": {
     "Tencent/WeKnora": {
-      "stars": 38289,
+      "stars": 38306,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10758,
+      "stars": 10759,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 15013,
+      "stars": 15080,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 5991,
+      "stars": 6010,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36764,
+      "stars": 36781,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -26,19 +26,19 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94767,
+      "stars": 94785,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23722,
+      "stars": 23725,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85850,
+      "stars": 85859,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22364,
+      "stars": 22365,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 161955,
+      "stars": 161965,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -62,7 +62,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17948,
+      "stars": 17958,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

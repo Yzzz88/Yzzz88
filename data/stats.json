@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-28T04:03:49.586776+08:00",
+  "updated_at": "2026-11-28T10:38:06.062240+08:00",
   "repos": {
     "PaddlePaddle/PaddleOCR": {
-      "stars": 93389,
+      "stars": 93400,
       "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     "QwenLM/Qwen-Agent": {
@@ -10,23 +10,23 @@
       "url": "https://github.com/QwenLM/Qwen-Agent"
     },
     "Tencent/WeKnora": {
-      "stars": 38370,
+      "stars": 38383,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10774,
+      "stars": 10775,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 15420,
+      "stars": 15787,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6083,
+      "stars": 6092,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36825,
+      "stars": 36828,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
@@ -34,19 +34,19 @@
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94835,
+      "stars": 94840,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23732,
+      "stars": 23735,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85877,
+      "stars": 85881,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22379,
+      "stars": 22384,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -54,15 +54,15 @@
       "url": "https://github.com/evalstate/fast-agent"
     },
     "bytedance/trae-agent": {
-      "stars": 12226,
+      "stars": 12227,
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16360,
+      "stars": 16361,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 162024,
+      "stars": 162030,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -70,7 +70,7 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17982,
+      "stars": 17986,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {

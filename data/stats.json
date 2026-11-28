@@ -1,52 +1,56 @@
 {
-  "updated_at": "2026-11-28T10:38:06.062240+08:00",
+  "updated_at": "2026-11-28T18:53:08.007339+08:00",
   "repos": {
-    "PaddlePaddle/PaddleOCR": {
-      "stars": 93400,
-      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    "alibaba/spring-ai-alibaba": {
+      "stars": 11187,
+      "url": "https://github.com/alibaba/spring-ai-alibaba"
     },
     "QwenLM/Qwen-Agent": {
-      "stars": 17293,
+      "stars": 17294,
       "url": "https://github.com/QwenLM/Qwen-Agent"
     },
+    "PaddlePaddle/PaddleOCR": {
+      "stars": 93417,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
     "Tencent/WeKnora": {
-      "stars": 38383,
+      "stars": 38410,
       "url": "https://github.com/Tencent/WeKnora"
     },
     "Tencent/BrowserSkill": {
-      "stars": 10775,
+      "stars": 10779,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     "NVIDIA/auto-ontology": {
-      "stars": 15787,
+      "stars": 16125,
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     "Tencent/LoopForge": {
-      "stars": 6092,
+      "stars": 6112,
       "url": "https://github.com/Tencent/LoopForge"
     },
     "agentscope-ai/agentscope": {
-      "stars": 36828,
+      "stars": 36841,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     "bytedance/flowgram.ai": {
-      "stars": 8624,
+      "stars": 8625,
       "url": "https://github.com/bytedance/flowgram.ai"
     },
     "infiniflow/ragflow": {
-      "stars": 94840,
+      "stars": 94855,
       "url": "https://github.com/infiniflow/ragflow"
     },
     "firecrawl/anydoc": {
-      "stars": 23735,
+      "stars": 23736,
       "url": "https://github.com/firecrawl/anydoc"
     },
     "bytedance/deer-flow": {
-      "stars": 85881,
+      "stars": 85892,
       "url": "https://github.com/bytedance/deer-flow"
     },
     "google/adk-python": {
-      "stars": 22384,
+      "stars": 22395,
       "url": "https://github.com/google/adk-python"
     },
     "evalstate/fast-agent": {
@@ -58,11 +62,11 @@
       "url": "https://github.com/bytedance/trae-agent"
     },
     "zauberzeug/nicegui": {
-      "stars": 16361,
+      "stars": 16362,
       "url": "https://github.com/zauberzeug/nicegui"
     },
     "langgenius/dify": {
-      "stars": 162030,
+      "stars": 162041,
       "url": "https://github.com/langgenius/dify"
     },
     "langgenius/dify-official-plugins": {
@@ -70,11 +74,11 @@
       "url": "https://github.com/langgenius/dify-official-plugins"
     },
     "opensandbox-group/OpenSandbox": {
-      "stars": 17986,
+      "stars": 17994,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     "modelscope/ms-agent": {
-      "stars": 4432,
+      "stars": 4433,
       "url": "https://github.com/modelscope/ms-agent"
     }
   },
@@ -342,6 +346,20 @@
         "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111",
         "diff_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111.diff",
         "patch_url": "https://github.com/QwenLM/Qwen-Agent/pull/1111.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 1113,
+      "title": "fix(parser): retain nested Word table content",
+      "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1113",
+      "repository_url": "https://api.github.com/repos/QwenLM/Qwen-Agent",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/QwenLM/Qwen-Agent/pulls/1113",
+        "html_url": "https://github.com/QwenLM/Qwen-Agent/pull/1113",
+        "diff_url": "https://github.com/QwenLM/Qwen-Agent/pull/1113.diff",
+        "patch_url": "https://github.com/QwenLM/Qwen-Agent/pull/1113.patch",
         "merged_at": null
       }
     },
@@ -1687,6 +1705,90 @@
         "diff_url": "https://github.com/agentscope-ai/agentscope/pull/4131.diff",
         "patch_url": "https://github.com/agentscope-ai/agentscope/pull/4131.patch",
         "merged_at": "2026-11-19T09:13:29Z"
+      }
+    },
+    {
+      "number": 5088,
+      "title": "fix(admin): preserve retrieval caller interruption",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5088",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5088",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5088",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5088.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5088.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5089,
+      "title": "fix(admin): restore request context after caller-runs tasks",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5089",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5089",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5089",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5089.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5089.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5090,
+      "title": "fix(admin): preserve paragraphs in regex document splitting",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5090",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5090",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5090",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5090.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5090.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5091,
+      "title": "fix(admin): preserve manual chunk document metadata",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5091",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5091",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5091",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5091.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5091.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5092,
+      "title": "fix(admin): close TXT knowledge document streams",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5092",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5092",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5092",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5092.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5092.patch",
+        "merged_at": null
+      }
+    },
+    {
+      "number": 5093,
+      "title": "fix(admin): preserve input prompts during retrieval augmentation",
+      "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5093",
+      "repository_url": "https://api.github.com/repos/alibaba/spring-ai-alibaba",
+      "state": "open",
+      "pull_request": {
+        "url": "https://api.github.com/repos/alibaba/spring-ai-alibaba/pulls/5093",
+        "html_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5093",
+        "diff_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5093.diff",
+        "patch_url": "https://github.com/alibaba/spring-ai-alibaba/pull/5093.patch",
+        "merged_at": null
       }
     },
     {

@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="2588" viewBox="0 0 320 2588" role="img" aria-label="64 个 PR 已合并，67 个 PR 待合并，涉及 19 个上游仓库">
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="2700" viewBox="0 0 320 2700" role="img" aria-label="64 个 PR 已合并，74 个 PR 待合并，涉及 20 个上游仓库">
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; fill: #19191e; }
 .mono { font-family: Consolas, 'Liberation Mono', monospace; }
 .eyebrow { font-size: 12px; font-weight: 600; letter-spacing: 2.3px; fill: #8061bb; }
 .muted { fill: #85838c; font-size: 13px; }
 .line { stroke: #eeedf2; stroke-width: 1; }
-</style><rect width="320" height="2588" rx="0" fill="#fff"/>
+</style><rect width="320" height="2700" rx="0" fill="#fff"/>
 <text x="12" y="30" font-size="19" font-weight="600" style="fill:#8061bb">■ 开源贡献统计</text>
 <path d="M12 48H308" class="line"/>
 <text x="12" y="116" font-size="60" font-weight="700">64</text>
 <text x="84" y="108" font-size="23" font-weight="600">个 PR 已合并</text>
-<text x="12" y="160" font-size="28" font-weight="600">67</text>
+<text x="12" y="160" font-size="28" font-weight="600">74</text>
 <text x="44" y="158" font-size="18">待合并 PR</text>
-<text x="175" y="160" font-size="28" font-weight="600">19</text>
+<text x="175" y="160" font-size="28" font-weight="600">20</text>
 <text x="207" y="158" font-size="18">上游仓库</text>
-<text x="12" y="196" class="muted" style="font-size:17px">近 30 天 +64 个已合并 PR</text>
+<text x="12" y="196" class="muted" style="font-size:17px">近 30 天 +63 个已合并 PR</text>
 <text x="12" y="234" font-size="17">最近 90 天 · 合并时间线</text>
 <path d="M18 296H302" class="line"/>
 <circle cx="206.3" cy="286" r="3.5" fill="#8663bf"/>
@@ -78,67 +78,72 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft Ya
 <text x="24" y="1065" class="muted mono" style="font-size:16px">NVIDIA</text>
 <text x="24" y="1094" class="mono" font-size="19" font-weight="600">auto-ontology</text>
 <text x="24" y="1124" font-size="16">已合并 0 · 待合并 14</text>
-<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 15.8k</text>
+<text x="296" y="1124" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 16.1k</text>
 <rect x="12" y="1154" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1177" class="muted mono" style="font-size:16px">bytedance</text>
-<text x="24" y="1206" class="mono" font-size="19" font-weight="600">flowgram.ai</text>
+<text x="24" y="1177" class="muted mono" style="font-size:16px">alibaba</text>
+<text x="24" y="1206" class="mono" font-size="19" font-weight="600">spring-ai-alibaba</text>
 <text x="24" y="1236" font-size="16">已合并 0 · 待合并 6</text>
-<text x="296" y="1236" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 8.6k</text>
+<text x="296" y="1236" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 11.2k</text>
 <rect x="12" y="1266" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1289" class="muted mono" style="font-size:16px">QwenLM</text>
-<text x="24" y="1318" class="mono" font-size="19" font-weight="600">Qwen-Agent</text>
-<text x="24" y="1348" font-size="16">已合并 0 · 待合并 3</text>
-<text x="296" y="1348" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 17.3k</text>
+<text x="24" y="1289" class="muted mono" style="font-size:16px">bytedance</text>
+<text x="24" y="1318" class="mono" font-size="19" font-weight="600">flowgram.ai</text>
+<text x="24" y="1348" font-size="16">已合并 0 · 待合并 6</text>
+<text x="296" y="1348" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 8.6k</text>
 <rect x="12" y="1378" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1401" class="muted mono" style="font-size:16px">bytedance</text>
-<text x="24" y="1430" class="mono" font-size="19" font-weight="600">deer-flow</text>
-<text x="24" y="1460" font-size="16">已合并 0 · 待合并 2</text>
-<text x="296" y="1460" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 85.9k</text>
+<text x="24" y="1401" class="muted mono" style="font-size:16px">QwenLM</text>
+<text x="24" y="1430" class="mono" font-size="19" font-weight="600">Qwen-Agent</text>
+<text x="24" y="1460" font-size="16">已合并 0 · 待合并 4</text>
+<text x="296" y="1460" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 17.3k</text>
 <rect x="12" y="1490" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1513" class="muted mono" style="font-size:16px">firecrawl</text>
-<text x="24" y="1542" class="mono" font-size="19" font-weight="600">anydoc</text>
+<text x="24" y="1513" class="muted mono" style="font-size:16px">bytedance</text>
+<text x="24" y="1542" class="mono" font-size="19" font-weight="600">deer-flow</text>
 <text x="24" y="1572" font-size="16">已合并 0 · 待合并 2</text>
-<text x="296" y="1572" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 23.7k</text>
+<text x="296" y="1572" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 85.9k</text>
 <rect x="12" y="1602" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1625" class="muted mono" style="font-size:16px">bytedance</text>
-<text x="24" y="1654" class="mono" font-size="19" font-weight="600">trae-agent</text>
+<text x="24" y="1625" class="muted mono" style="font-size:16px">firecrawl</text>
+<text x="24" y="1654" class="mono" font-size="19" font-weight="600">anydoc</text>
 <text x="24" y="1684" font-size="16">已合并 0 · 待合并 2</text>
-<text x="296" y="1684" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 12.2k</text>
+<text x="296" y="1684" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 23.7k</text>
 <rect x="12" y="1714" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1737" class="muted mono" style="font-size:16px">langgenius</text>
-<text x="24" y="1766" class="mono" font-size="19" font-weight="600">dify</text>
-<text x="24" y="1796" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1796" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 162.0k</text>
+<text x="24" y="1737" class="muted mono" style="font-size:16px">bytedance</text>
+<text x="24" y="1766" class="mono" font-size="19" font-weight="600">trae-agent</text>
+<text x="24" y="1796" font-size="16">已合并 0 · 待合并 2</text>
+<text x="296" y="1796" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 12.2k</text>
 <rect x="12" y="1826" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1849" class="muted mono" style="font-size:16px">infiniflow</text>
-<text x="24" y="1878" class="mono" font-size="19" font-weight="600">ragflow</text>
+<text x="24" y="1849" class="muted mono" style="font-size:16px">langgenius</text>
+<text x="24" y="1878" class="mono" font-size="19" font-weight="600">dify</text>
 <text x="24" y="1908" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="1908" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 94.8k</text>
+<text x="296" y="1908" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 162.0k</text>
 <rect x="12" y="1938" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="1961" class="muted mono" style="font-size:16px">PaddlePaddle</text>
-<text x="24" y="1990" class="mono" font-size="19" font-weight="600">PaddleOCR</text>
+<text x="24" y="1961" class="muted mono" style="font-size:16px">infiniflow</text>
+<text x="24" y="1990" class="mono" font-size="19" font-weight="600">ragflow</text>
 <text x="24" y="2020" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="2020" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 93.4k</text>
+<text x="296" y="2020" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 94.9k</text>
 <rect x="12" y="2050" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="2073" class="muted mono" style="font-size:16px">google</text>
-<text x="24" y="2102" class="mono" font-size="19" font-weight="600">adk-python</text>
+<text x="24" y="2073" class="muted mono" style="font-size:16px">PaddlePaddle</text>
+<text x="24" y="2102" class="mono" font-size="19" font-weight="600">PaddleOCR</text>
 <text x="24" y="2132" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="2132" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 22.4k</text>
+<text x="296" y="2132" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 93.4k</text>
 <rect x="12" y="2162" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="2185" class="muted mono" style="font-size:16px">modelscope</text>
-<text x="24" y="2214" class="mono" font-size="19" font-weight="600">ms-agent</text>
+<text x="24" y="2185" class="muted mono" style="font-size:16px">google</text>
+<text x="24" y="2214" class="mono" font-size="19" font-weight="600">adk-python</text>
 <text x="24" y="2244" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="2244" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.4k</text>
+<text x="296" y="2244" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 22.4k</text>
 <rect x="12" y="2274" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="2297" class="muted mono" style="font-size:16px">evalstate</text>
-<text x="24" y="2326" class="mono" font-size="19" font-weight="600">fast-agent</text>
+<text x="24" y="2297" class="muted mono" style="font-size:16px">modelscope</text>
+<text x="24" y="2326" class="mono" font-size="19" font-weight="600">ms-agent</text>
 <text x="24" y="2356" font-size="16">已合并 0 · 待合并 1</text>
-<text x="296" y="2356" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.0k</text>
+<text x="296" y="2356" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.4k</text>
 <rect x="12" y="2386" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
-<text x="24" y="2409" class="muted mono" style="font-size:16px">langgenius</text>
-<text x="24" y="2438" class="mono" font-size="19" font-weight="600">dify-official-plugins</text>
-<text x="24" y="2468" font-size="16">已合并 0 · 待合并 0</text>
-<text x="296" y="2468" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 644</text>
-<text x="12" y="2526" class="muted" style="font-size:17px">每 5 分钟检查 · 变化时更新</text>
-<text x="12" y="2557" class="muted mono" style="font-size:15px">2026-11-28 10:38 (UTC+8)</text>
+<text x="24" y="2409" class="muted mono" style="font-size:16px">evalstate</text>
+<text x="24" y="2438" class="mono" font-size="19" font-weight="600">fast-agent</text>
+<text x="24" y="2468" font-size="16">已合并 0 · 待合并 1</text>
+<text x="296" y="2468" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 4.0k</text>
+<rect x="12" y="2498" width="296" height="100" rx="8" fill="#faf9fc" stroke="#eeedf2"/>
+<text x="24" y="2521" class="muted mono" style="font-size:16px">langgenius</text>
+<text x="24" y="2550" class="mono" font-size="19" font-weight="600">dify-official-plugins</text>
+<text x="24" y="2580" font-size="16">已合并 0 · 待合并 0</text>
+<text x="296" y="2580" class="mono" font-size="16" text-anchor="end" style="fill:#8061bb">☆ 644</text>
+<text x="12" y="2638" class="muted" style="font-size:17px">每 5 分钟检查 · 变化时更新</text>
+<text x="12" y="2669" class="muted mono" style="font-size:15px">2026-11-28 18:53 (UTC+8)</text>
 </svg>
